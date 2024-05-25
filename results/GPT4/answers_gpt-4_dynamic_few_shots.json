@@ -1,0 +1,1567 @@
+[
+    {
+        "unique_id": "PAQ_val_1582_2",
+        "question": "what does esrf stand for?",
+        "model_answer": "{\"answer\": null, \"sources\": []}",
+        "sources": [],
+        "summary": "null",
+        "answer": "null",
+        "similarity": 1.0,
+        "similarity_sources": 1.0,
+        "f1_score": 1.0,
+        "rouge_l_score": 1.0,
+        "bert_score": 1.0
+    },
+    {
+        "unique_id": "PAQ_val_1155_1",
+        "question": "where is the world cup being held in 2018?",
+        "model_answer": "{\"answer\": null, \"sources\": []}",
+        "sources": [],
+        "summary": "null",
+        "answer": "null",
+        "similarity": 1.0,
+        "similarity_sources": 1.0,
+        "f1_score": 1.0,
+        "rouge_l_score": 1.0,
+        "bert_score": 1.0
+    },
+    {
+        "unique_id": "PAQ_val_1744_1",
+        "question": "who was the spanish governor of buenos aires?",
+        "model_answer": "{\"answer\": null, \"sources\": []}",
+        "sources": [],
+        "summary": "null",
+        "answer": "null",
+        "similarity": 0.9999991715366425,
+        "similarity_sources": 0.9999995857683213,
+        "f1_score": 1.0,
+        "rouge_l_score": 1.0,
+        "bert_score": 1.0
+    },
+    {
+        "unique_id": "PAQ_val_1566_2",
+        "question": "which is the largest church in mizoram india?",
+        "model_answer": "{\"answer\": \"The Mizoram Presbyterian Church Synod is the largest Christian denomination in Mizoram, northeast India.\", \"sources\": [\"Source1\"]}",
+        "sources": [
+            "1"
+        ],
+        "summary": "According to sources, the [ 1 Mizoram Presbyterian Church Synod ] [ 1 is the largest Christian denomination in Mizoram, northeast India. ]",
+        "answer": "According to sources, the Mizoram Presbyterian Church Synod is the largest Christian denomination in Mizoram, northeast India.",
+        "similarity": 0.9640681704188089,
+        "similarity_sources": 0.9820340852094045,
+        "f1_score": 0.7567567567567568,
+        "rouge_l_score": 0.7878787829935721,
+        "bert_score": 0.9448947310447693
+    },
+    {
+        "unique_id": "PAQ_val_1406_0",
+        "question": "who was the first same-sex couple to marry in oregon?",
+        "model_answer": "{\"answer\": \"The first same-sex couple to marry in Oregon were Deanna Geiger and Janine Nelson.\", \"sources\": [\"Source2\"]}",
+        "sources": [
+            "2"
+        ],
+        "summary": "[ 2 Deanna Geiger and Janine Nelson became the first same-sex couple to marry in Oregon. ]",
+        "answer": "Deanna Geiger and Janine Nelson became the first same-sex couple to marry in Oregon.",
+        "similarity": 0.9520612171833924,
+        "similarity_sources": 0.9760306085916962,
+        "f1_score": 0.7096774193548386,
+        "rouge_l_score": 0.4516128982726327,
+        "bert_score": 0.9604909420013428
+    },
+    {
+        "unique_id": "PAQ_val_1133_2",
+        "question": "in which supreme court case did the supreme court rule that executive privilege was unconstitutional?",
+        "model_answer": "{\"answer\": \"The Supreme Court ruled in the case 'United States v. Nixon' that executive privilege did not apply in cases where a president was attempting to avoid criminal prosecution.\", \"sources\": [\"Source1\"]}",
+        "sources": [
+            "1"
+        ],
+        "summary": "In [ 1 \"United States v. Nixon\" ] case, [ 1 the Supreme Court ruled ] [ 1 that executive privilege did not apply in cases where a president was attempting to avoid criminal prosecution. ]",
+        "answer": "In \"United States v. Nixon\" case, the Supreme Court ruled that executive privilege did not apply in cases where a president was attempting to avoid criminal prosecution.",
+        "similarity": 0.9726971493907066,
+        "similarity_sources": 0.9863485746953533,
+        "f1_score": 0.75,
+        "rouge_l_score": 0.7719298195752539,
+        "bert_score": 0.940176248550415
+    },
+    {
+        "unique_id": "PAQ_val_1293_1",
+        "question": "who were the defensive ends in super bowl iv?",
+        "model_answer": "{\"answer\": \"The defensive ends in Super Bowl IV were Carl Eller and Jim Marshall for the Minnesota Vikings, and Jerry Mays and Aaron Brown for the Kansas City Chiefs.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "There were the [ 1 Viking defensive ends Carl Eller and Jim Marshall ] in [ 1 Super Bowl IV ] . There was also [ 2 defensive ends Jerry Mays and Aaron Brown ] .",
+        "answer": "There were the Viking defensive ends Carl Eller and Jim Marshall in Super Bowl IV . There was also defensive ends Jerry Mays and Aaron Brown .",
+        "similarity": 0.8807976755990433,
+        "similarity_sources": 0.9403988377995216,
+        "f1_score": 0.5625000000000001,
+        "rouge_l_score": 0.44897958683881717,
+        "bert_score": 0.899486243724823
+    },
+    {
+        "unique_id": "PAQ_val_1687_0",
+        "question": "who are the two main characters in the game?",
+        "model_answer": "{\"answer\": null, \"sources\": []}",
+        "sources": [],
+        "summary": "null",
+        "answer": "null",
+        "similarity": 1.0,
+        "similarity_sources": 1.0,
+        "f1_score": 1.0,
+        "rouge_l_score": 1.0,
+        "bert_score": 1.0
+    },
+    {
+        "unique_id": "PAQ_val_1781_2",
+        "question": "what is the full form of uic?",
+        "model_answer": "{\"answer\": \"The full form of UIC can be the University of Illinois at Chicago or the International Union of Railways.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "UIC can stand for the [ 1 University of Illinois at Chicago ] , or the [ 2 International Union of Railways ] .",
+        "answer": "UIC can stand for the University of Illinois at Chicago , or the International Union of Railways .",
+        "similarity": 0.9271350219539701,
+        "similarity_sources": 0.963567510976985,
+        "f1_score": 0.6046511627906976,
+        "rouge_l_score": 0.6857142807510205,
+        "bert_score": 0.874422013759613
+    },
+    {
+        "unique_id": "PAQ_val_1850_1",
+        "question": "which novel by georges simenon features the detective jules maigret?",
+        "model_answer": "{\"answer\": \"The novels 'Guinguette by the Seine' and 'A Battle of Nerves' by Belgian writer Georges Simenon both feature the character Inspector Jules Maigret.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "[ 1 Guinguette by the Seine ] , [ 1 is a detective novel by Belgian writer Georges Simenon, featuring his character Inspector Jules Maigret. ] Another novel that features Jules Maigret is [ 2 A Battle of Nerves ] .",
+        "answer": "Guinguette by the Seine , is a detective novel by Belgian writer Georges Simenon, featuring his character Inspector Jules Maigret. Another novel that features Jules Maigret is A Battle of Nerves .",
+        "similarity": 0.930011169215721,
+        "similarity_sources": 0.9650055846078605,
+        "f1_score": 0.375,
+        "rouge_l_score": 0.43137254417531723,
+        "bert_score": 0.9125391244888306
+    },
+    {
+        "unique_id": "PAQ_val_1670_1",
+        "question": "how long is the second stage of labor?",
+        "model_answer": "{\"answer\": \"The second stage of labor typically lasts twenty minutes to two hours. However, the use of epidural analgesia can increase the duration of the second stage of labour by 15 to 30 minutes.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "Sources state [ 1 the second stage ] of labor lasts [ 1 twenty minutes to two hours ] . Other sources state that [ 2 Epidural analgesia does increase the duration of the second stage of labour by 15 to 30 minutes ] .",
+        "answer": "Sources state the second stage of labor lasts twenty minutes to two hours . Other sources state that Epidural analgesia does increase the duration of the second stage of labour by 15 to 30 minutes .",
+        "similarity": 0.9315351832690493,
+        "similarity_sources": 0.9657675916345246,
+        "f1_score": 0.6410256410256411,
+        "rouge_l_score": 0.6792452780633679,
+        "bert_score": 0.9058868288993835
+    },
+    {
+        "unique_id": "PAQ_val_1607_0",
+        "question": "who are two nobel laureates?",
+        "model_answer": "{\"answer\": \"Two Nobel laureates are Pablo Neruda and Gabriela Mistral from the Universidad de Chile, and Odysseus Elytis and George Seferis from Greece.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "[ 1 Pablo Neruda and Gabriela Mistral ] are [ 1 two Nobel laureates ] , as are [ 2 Odysseus Elytis and George Seferis ] .",
+        "answer": "Pablo Neruda and Gabriela Mistral are two Nobel laureates , as are Odysseus Elytis and George Seferis .",
+        "similarity": 0.88378144760377,
+        "similarity_sources": 0.941890723801885,
+        "f1_score": 0.5714285714285714,
+        "rouge_l_score": 0.4736842055263158,
+        "bert_score": 0.9011805653572083
+    },
+    {
+        "unique_id": "PAQ_val_1545_1",
+        "question": "who is the present provincial minister of balochistan?",
+        "model_answer": "{\"answer\": \"Mir Saleem Ahmed Khoso is the current Provincial Minister of the Balochistan for Home and Tribal Affairs. Mir Sarfraz Chakar Domki is the current Provincial Minister of Balochistan for Labour and Manpower.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "[ 1 Mir Saleem Ahmed Khoso is a Pakistani politician who is the current Provincial Minister of the Balochistan for Home and Tribal Affairs, in office since 30 August 2018 ] . And [ 2 Mir Sarfraz Chakar Domki is ] [ 2 the current Provincial Minister of Balochistan for Labour and Manpower, in office since 8 September 2018. ]",
+        "answer": "Mir Saleem Ahmed Khoso is a Pakistani politician who is the current Provincial Minister of the Balochistan for Home and Tribal Affairs, in office since 30 August 2018 . And Mir Sarfraz Chakar Domki is the current Provincial Minister of Balochistan for Labour and Manpower, in office since 8 September 2018.",
+        "similarity": 0.9692359614565593,
+        "similarity_sources": 0.9846179807282797,
+        "f1_score": 0.6521739130434783,
+        "rouge_l_score": 0.6440677920252802,
+        "bert_score": 0.9244858026504517
+    },
+    {
+        "unique_id": "PAQ_val_1923_0",
+        "question": "when did the battle of basra start and end?",
+        "model_answer": "{\"answer\": \"The Battle of Basra has occurred in different periods. The Battle of Basra in 1914 took place from November 11 to November 22, 1914. The Battle of Basra in 2003 lasted from 21 March to 6 April 2003.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "(1) [ 1 Battle of Basra (1914) The Battle of Basra was a battle of World War I which took place south of the city of Basra (modern-day Iraq) between British and Ottoman troops from November 11 to November 22, 1914. ] (2) [ 2 Battle of Basra (2003) The Battle of Basra lasted from 21 March to 6 April 2003 and was one of the first battles of the 2003 invasion of Iraq. ]",
+        "answer": "(1) Battle of Basra (1914) The Battle of Basra was a battle of World War I which took place south of the city of Basra (modern-day Iraq) between British and Ottoman troops from November 11 to November 22, 1914. (2) Battle of Basra (2003) The Battle of Basra lasted from 21 March to 6 April 2003 and was one of the first battles of the 2003 invasion of Iraq.",
+        "similarity": 0.9146887187792123,
+        "similarity_sources": 0.9573443593896062,
+        "f1_score": 0.5132743362831859,
+        "rouge_l_score": 0.5070422491410436,
+        "bert_score": 0.9024173021316528
+    },
+    {
+        "unique_id": "PAQ_val_1270_1",
+        "question": "where did reggie stephens go to high school?",
+        "model_answer": "{\"answer\": \"There are two individuals named Reggie Stephens. Reggie Dewayne Stephens, a former American football cornerback, attended and played High school football at Santa Cruz High School. On the other hand, Reginald 'Reggie' Stephens, an American football center and guard, attended and played high school football at Jesuit College Preparatory School of Dallas.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "Some sources indicate that [ 1 Reggie Stephens ] [ 1 is a former American football cornerback ] who went to [ 1 Santa Cruz High School ] , while other sources state that [ 2 Reggie Stephens ] [ 2 is an American football center and guard ] who [ 2 attended and played high school football at Jesuit College Preparatory School of Dallas. ]",
+        "answer": "Some sources indicate that Reggie Stephens is a former American football cornerback who went to Santa Cruz High School , while other sources state that Reggie Stephens is an American football center and guard who attended and played high school football at Jesuit College Preparatory School of Dallas.",
+        "similarity": 0.902439901268044,
+        "similarity_sources": 0.951219950634022,
+        "f1_score": 0.4915254237288136,
+        "rouge_l_score": 0.5316455646274636,
+        "bert_score": 0.8903753757476807
+    },
+    {
+        "unique_id": "PAQ_val_1054_1",
+        "question": "what are the gargoyles names in hunchback of notre dame?",
+        "model_answer": "{\"answer\": \"In the 1996 film 'The Hunchback of Notre Dame', the names of the gargoyles are Victor, Hugo, and Laverne. In the musical version of 'The Hunchback of Notre Dame', the gargoyles are named Charles, Antoine, and Loni.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "In [ 1 The Hunchback of Notre Dame (1996 film) ] , [ 1 A trio of living stone gargoyles ] are [ 1 Victor, Hugo, and Laverne ] . And in [ 2 The Hunchback of Notre Dame (musical) ] , [ 2 A trio of living stone gargoyles ] are named [ 2 Charles, Antoine and Loni ] .",
+        "answer": "In The Hunchback of Notre Dame (1996 film) , A trio of living stone gargoyles are Victor, Hugo, and Laverne . And in The Hunchback of Notre Dame (musical) , A trio of living stone gargoyles are named Charles, Antoine and Loni .",
+        "similarity": 0.9119005700542108,
+        "similarity_sources": 0.9559502850271053,
+        "f1_score": 0.44897959183673464,
+        "rouge_l_score": 0.49999999511834325,
+        "bert_score": 0.9111688733100891
+    },
+    {
+        "unique_id": "PAQ_val_1129_1",
+        "question": "why does great britain qualify for the olympics?",
+        "model_answer": "{\"answer\": \"Great Britain competes as one union in the Olympics and as several in international rugby (England, Wales, Scotland and a combined union from Northern Ireland and Republic of Ireland). This means that if one of either the England, Wales or Scotland teams qualify, then Great Britain would be awarded a spot in the Olympic Games. Similarly, for the 2020 Summer Olympic women's football tournament, Great Britain attempted to qualify for the Olympics through England's performance in the World Cup.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "[ 1 As a result of England finishing fourth in the 2014\u201315 Sevens World Series, Great Britain were awarded a spot in the Olympic games, despite the other nations failing to qualify in the top 4. This is because Great Britain compete as one union in the Olympics and as several in international rugby (England, Wales, Scotland and a combined union from Northern Ireland and Republic of Ireland), which meant should one of either the England, Wales or Scotland teams qualify, then Great Britain would be awarded a spot in the Olympic Games. ]",
+        "answer": "As a result of England finishing fourth in the 2014\u201315 Sevens World Series, Great Britain were awarded a spot in the Olympic games, despite the other nations failing to qualify in the top 4. This is because Great Britain compete as one union in the Olympics and as several in international rugby (England, Wales, Scotland and a combined union from Northern Ireland and Republic of Ireland), which meant should one of either the England, Wales or Scotland teams qualify, then Great Britain would be awarded a spot in the Olympic Games.",
+        "similarity": 0.8525887073439673,
+        "similarity_sources": 0.42629435367198365,
+        "f1_score": 0.6936416184971099,
+        "rouge_l_score": 0.6280991685813812,
+        "bert_score": 0.9299832582473755
+    },
+    {
+        "unique_id": "PAQ_val_1520_2",
+        "question": "\"who painted \"\"adoration of the shepherds\"\"?\"?",
+        "model_answer": "{\"answer\": \"The painting 'Adoration of the Shepherds' has been created by multiple artists. Hugo van der Goes painted a version of 'Adoration of the Shepherds', which is now in the Gem\\u00e4ldegalerie, Berlin. Another version of 'Adoration of the Shepherds' was painted by Lucas Cranach the Elder.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "[ 1 Hugo van der Goes ] and [ 2 Lucas Cranach the Elder ] painted different versions.",
+        "answer": "Hugo van der Goes and Lucas Cranach the Elder painted different versions.",
+        "similarity": 0.6607264285702993,
+        "similarity_sources": 0.8303632142851496,
+        "f1_score": 0.25396825396825395,
+        "rouge_l_score": 0.38297871891353563,
+        "bert_score": 0.860019862651825
+    },
+    {
+        "unique_id": "PAQ_val_1548_0",
+        "question": "how much natural gas reserves does the united states have?",
+        "model_answer": "{\"answer\": null, \"sources\": []}",
+        "sources": [],
+        "summary": "null",
+        "answer": "null",
+        "similarity": 0.9999992413458392,
+        "similarity_sources": 0.9999996206729196,
+        "f1_score": 1.0,
+        "rouge_l_score": 1.0,
+        "bert_score": 1.0
+    },
+    {
+        "unique_id": "PAQ_val_1914_2",
+        "question": "why are tectonic plates able to move around the earth?",
+        "model_answer": "{\"answer\": \"Tectonic plates are able to move around the Earth's surface because the Earth's lithosphere has greater mechanical strength than the underlying asthenosphere. Lateral density variations in the mantle result in convection, which is the main driving force that causes the plates to move.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "[ 2 Tectonic plates are able to move because the Earth's lithosphere has greater mechanical strength than the underlying asthenosphere. ] Other sources state that [ 1 Secondary forms of convection that may result in surface volcanism are postulated to occur as a consequence of intraplate extension and mantle plumes. It is because the mantle can convect that the tectonic plates are able to move around the Earth's surface. ]",
+        "answer": "Tectonic plates are able to move because the Earth's lithosphere has greater mechanical strength than the underlying asthenosphere. Other sources state that Secondary forms of convection that may result in surface volcanism are postulated to occur as a consequence of intraplate extension and mantle plumes. It is because the mantle can convect that the tectonic plates are able to move around the Earth's surface.",
+        "similarity": 0.8650986697352574,
+        "similarity_sources": 0.9325493348676287,
+        "f1_score": 0.5486725663716814,
+        "rouge_l_score": 0.5542168626796343,
+        "bert_score": 0.9149852991104126
+    },
+    {
+        "unique_id": "PAQ_val_1483_0",
+        "question": "which four golfers were inducted into the world golf hall of fame?",
+        "model_answer": "{\"answer\": \"The four golfers who were inducted into the World Golf Hall of Fame are Harvey Penick, Paul Runyan, Byron Nelson and Sam Snead. Additionally, Gene Littler, Jack Nicklaus, Raymond Floyd and Ben Crenshaw, who were winners of the International Jaycee Junior Golf Tournament, were also inducted into the World Golf Hall of Fame.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "(1) [ 1 Harvey Penick, Paul Runyan, Byron Nelson and Sam Snead, all of whom were inducted into the World Golf Hall of Fame. ] (2) [ 2 Among winners of the tournament, four players were elected to the World Golf Hall of Fame: Gene Littler, Jack Nicklaus, Raymond Floyd and Ben Crenshaw. ]",
+        "answer": "(1) Harvey Penick, Paul Runyan, Byron Nelson and Sam Snead, all of whom were inducted into the World Golf Hall of Fame. (2) Among winners of the tournament, four players were elected to the World Golf Hall of Fame: Gene Littler, Jack Nicklaus, Raymond Floyd and Ben Crenshaw.",
+        "similarity": 0.9281424609753934,
+        "similarity_sources": 0.9640712304876967,
+        "f1_score": 0.6728971962616822,
+        "rouge_l_score": 0.2999999950125001,
+        "bert_score": 0.9238855838775635
+    },
+    {
+        "unique_id": "PAQ_val_1068_0",
+        "question": "why do animals cooperate with each other?",
+        "model_answer": "{\"answer\": \"Animals cooperate with each other to increase their own fitness. This cooperation can occur mostly for direct benefit or between relatives. Spending time and resources assisting a related individual may at first seem destructive to an organism's chances of survival but is actually beneficial over the long-term. Since relatives share part of the helper's genetic make-up, enhancing each individual's chance of survival may actually increase the likelihood that the helper's genetic traits will be passed on to future generations.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "One source states that [ 1 Animals cooperate with each other to increase their own fitness. ] Another source states that [ 2 Cooperation in animals appears to occur mostly for direct benefit or between relatives. ]",
+        "answer": "One source states that Animals cooperate with each other to increase their own fitness. Another source states that Cooperation in animals appears to occur mostly for direct benefit or between relatives.",
+        "similarity": 0.827033266495665,
+        "similarity_sources": 0.9135166332478325,
+        "f1_score": 0.3620689655172413,
+        "rouge_l_score": 0.3999999956033241,
+        "bert_score": 0.8644857406616211
+    },
+    {
+        "unique_id": "PAQ_val_1986_2",
+        "question": "who was the first same sex couple to marry in oregon?",
+        "model_answer": "{\"answer\": \"The first same-sex couple to marry in Oregon were Deanna Geiger and Janine Nelson.\", \"sources\": [\"Source2\"]}",
+        "sources": [
+            "2"
+        ],
+        "summary": "[ 2 In May 2014, same-sex marriage was legalized in Oregon, and Deanna Geiger and Janine Nelson became the first same-sex couple to marry in Oregon. ]",
+        "answer": "In May 2014, same-sex marriage was legalized in Oregon, and Deanna Geiger and Janine Nelson became the first same-sex couple to marry in Oregon.",
+        "similarity": 0.9143476754846943,
+        "similarity_sources": 0.9571738377423471,
+        "f1_score": 0.5365853658536585,
+        "rouge_l_score": 0.36842104797783937,
+        "bert_score": 0.9453487992286682
+    },
+    {
+        "unique_id": "PAQ_val_1700_1",
+        "question": "the religion and beliefs of europe were largely products of what?",
+        "model_answer": "{\"answer\": \"The religion and beliefs of Europe were largely products of Judaeo-Christianity, Socrates, Plato, Aristotle, and Greek thought.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "[ 1 The religion and beliefs of Europe were largely products of Judaeo-Christianity, Socrates, Plato, and Aristotle. ]",
+        "answer": "The religion and beliefs of Europe were largely products of Judaeo-Christianity, Socrates, Plato, and Aristotle.",
+        "similarity": 0.9609458103720819,
+        "similarity_sources": 0.48047290518604097,
+        "f1_score": 0.7999999999999999,
+        "rouge_l_score": 0.7741935433922998,
+        "bert_score": 0.961846113204956
+    },
+    {
+        "unique_id": "PAQ_val_1902_2",
+        "question": "when did the doris day show start and end?",
+        "model_answer": "{\"answer\": \"The Doris Day Show is an American sitcom that was originally broadcast on the CBS Television network from September 1968 until March 1973. The Doris Day Show (radio program) was broadcast on CBS from March 28, 1952, to May 26, 1953.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "[ 1 The Doris Day Show is an American sitcom that was originally broadcast on the CBS Television network from September 1968 until March 1973 ] . [ 2 The Doris Day Show (radio program) ] , on the other hand, [ 2 was ] [ 2 an American old-time radio musical program ] , [ 2 broadcast on CBS from March 28, 1952, to May 26, 1953. ]",
+        "answer": "The Doris Day Show is an American sitcom that was originally broadcast on the CBS Television network from September 1968 until March 1973 . The Doris Day Show (radio program) , on the other hand, was an American old-time radio musical program , broadcast on CBS from March 28, 1952, to May 26, 1953.",
+        "similarity": 0.9855788356186375,
+        "similarity_sources": 0.9927894178093187,
+        "f1_score": 0.7272727272727274,
+        "rouge_l_score": 0.8493150636066805,
+        "bert_score": 0.9296568036079407
+    },
+    {
+        "unique_id": "PAQ_val_1838_1",
+        "question": "why did northern whigs oppose the war?",
+        "model_answer": "{\"answer\": \"Northern Whigs opposed the war because they believed that President Polk had used patriotism to manipulate the nation into fighting a war the goal of which was to give slavery room to expand. They generally opposed the war because they did not support the extension of slavery.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "Some sources state that [ 1 Many Northern Whigs opposed the war ] because [ 1 they felt Polk had used patriotism to manipulate the nation into fighting a war the goal of which was to give slavery room to expand. ] Other sources concur, stating that [ 2 Northern Whigs and anti-slavery Democrats generally opposed the ] [ 2 war with Mexico ] [ 2 because they did not support the extension of slavery. ]",
+        "answer": "Some sources state that Many Northern Whigs opposed the war because they felt Polk had used patriotism to manipulate the nation into fighting a war the goal of which was to give slavery room to expand. Other sources concur, stating that Northern Whigs and anti-slavery Democrats generally opposed the war with Mexico because they did not support the extension of slavery.",
+        "similarity": 0.8775373131036743,
+        "similarity_sources": 0.9387686565518372,
+        "f1_score": 0.7154471544715447,
+        "rouge_l_score": 0.7317073122189174,
+        "bert_score": 0.9248023629188538
+    },
+    {
+        "unique_id": "PAQ_val_1754_0",
+        "question": "how long does it take to make a patola sari?",
+        "model_answer": "{\"answer\": \"A patola sari takes 4 to 6 months to make, depending on how complicated the designs is and if the length is 5 or 6 metres. However, it can take up to one year to make one sari due to the long process of dying each strand separately before weaving them together.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "One source says a [ 1 patola sari takes 4 to 6 months to make, depending on how complicated the designs is and if the length is 5 or 6 metres. ] Another source claims that i [ 2 t can take six months to one year to make one sari due to the long process of dying each strand separately before weaving them together. ]",
+        "answer": "One source says a patola sari takes 4 to 6 months to make, depending on how complicated the designs is and if the length is 5 or 6 metres. Another source claims that i t can take six months to one year to make one sari due to the long process of dying each strand separately before weaving them together.",
+        "similarity": 0.948326143717791,
+        "similarity_sources": 0.9741630718588955,
+        "f1_score": 0.8305084745762712,
+        "rouge_l_score": 0.808510633354459,
+        "bert_score": 0.9532576203346252
+    },
+    {
+        "unique_id": "PAQ_val_1651_1",
+        "question": "where is the runji trophy match played at?",
+        "model_answer": "{\"answer\": \"The Ranji Trophy matches have been played at multiple locations. For instance, the Vellyani Agricultural College Ground in Vellyani, Thiruvananthapuram, Kerala has hosted four Ranji Trophy matches from 1990 to 1999. The Teerthanker Mahaveer University Ground in Moradabad, Uttar Pradesh is also made considering all norms of BCCI so that it can host Ranji Trophy matches.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "[ 1 Vellyani Agricultural College Ground ] , [ 1 a multi purpose stadium in Vellyani, Thiruvananthapuram, Kerala ] [ 1 hosted four Ranji Trophy matches from 1990 when Kerala cricket team played against Goa cricket team until 1999. ] And [ 2 Teerthanker Mahaveer University Ground ] , [ 2 a multi-purpose stadium in Moradabad, Uttar Pradesh ] has been constructed [ 2 considering all norms of BCCI so that it can host Ranji Trophy matches. ]",
+        "answer": "Vellyani Agricultural College Ground , a multi purpose stadium in Vellyani, Thiruvananthapuram, Kerala hosted four Ranji Trophy matches from 1990 when Kerala cricket team played against Goa cricket team until 1999. And Teerthanker Mahaveer University Ground , a multi-purpose stadium in Moradabad, Uttar Pradesh has been constructed considering all norms of BCCI so that it can host Ranji Trophy matches.",
+        "similarity": 0.8718384636430021,
+        "similarity_sources": 0.935919231821501,
+        "f1_score": 0.5970149253731343,
+        "rouge_l_score": 0.6799999950180001,
+        "bert_score": 0.9193150401115417
+    },
+    {
+        "unique_id": "PAQ_val_1649_2",
+        "question": "what is the name of the spanish mission in georgia?",
+        "model_answer": "{\"answer\": \"There were two Spanish missions in Georgia mentioned in the documents. These are Santa Isabel de Utinahica, believed to be located in modern-day Telfair County, near Jacksonville, and San Lorenzo de Ibihica, located in the southeast of the present-day U.S. state of Georgia.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "[ 1 Santa Isabel de Utinahica ] [ 1 was a 17th-century Spanish mission believed ] [ 1 to be located in modern-day Telfair County, Georgia, near Jacksonville. ] [ 2 San Lorenzo de Ibihica was ] another [ 2 Spanish Franciscan mission built in the early 17th century in the southeast of the present-day U.S. state of Georgia. ]",
+        "answer": "Santa Isabel de Utinahica was a 17th-century Spanish mission believed to be located in modern-day Telfair County, Georgia, near Jacksonville. San Lorenzo de Ibihica was another Spanish Franciscan mission built in the early 17th century in the southeast of the present-day U.S. state of Georgia.",
+        "similarity": 0.8650617388423774,
+        "similarity_sources": 0.9325308694211887,
+        "f1_score": 0.5436893203883496,
+        "rouge_l_score": 0.6052631529259005,
+        "bert_score": 0.9116195440292358
+    },
+    {
+        "unique_id": "PAQ_val_1113_1",
+        "question": "which countries were the first to break away from the gold standard?",
+        "model_answer": "{\"answer\": \"The first countries to break away from the gold standard were the United Kingdom and the Dresdner Bank of Germany in 1931. This was followed by Austria, Canada, Japan, and Sweden by the end of 1931. The United States broke free of the gold standard in April 1933.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "The countries that broke away early from [ 2 gold standard ] were [ 2 Great Britain and the Scandinavian countries ].",
+        "answer": "The countries that broke away early from gold standard were Great Britain and the Scandinavian countries.",
+        "similarity": 0.7677651974877777,
+        "similarity_sources": 0.38388259874388886,
+        "f1_score": 0.28571428571428575,
+        "rouge_l_score": 0.3846153800887574,
+        "bert_score": 0.8707263469696045
+    },
+    {
+        "unique_id": "PAQ_val_1318_0",
+        "question": "explosions in the sky album title?",
+        "model_answer": "{\"answer\": \"Titles of albums by Explosions in the Sky include 'All of a Sudden I Miss Everyone' and 'The Earth Is Not a Cold Dead Place'.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "[ 1 All of a Sudden I Miss Everyone is the fifth studio album from American post-rock band Explosions in the Sky. ] They also have an album titled, \" [ 2 The Earth Is Not a Cold Dead Place ] \".",
+        "answer": "All of a Sudden I Miss Everyone is the fifth studio album from American post-rock band Explosions in the Sky. They also have an album titled, \" The Earth Is Not a Cold Dead Place \".",
+        "similarity": 0.7981265450914474,
+        "similarity_sources": 0.8990632725457237,
+        "f1_score": 0.41791044776119407,
+        "rouge_l_score": 0.37288135117494975,
+        "bert_score": 0.9051910042762756
+    },
+    {
+        "unique_id": "PAQ_val_1383_0",
+        "question": "when was between the buried and me touring north america?",
+        "model_answer": "{\"answer\": \"Between the Buried and Me toured North America during April through May 2011 and again during September and October 2013.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "[ 1 Between the Buried and Me toured North America ] [ 1 during April through May 2011. ] They also toured [ 2 across North America during September and October 2013 ] .",
+        "answer": "Between the Buried and Me toured North America during April through May 2011. They also toured across North America during September and October 2013 .",
+        "similarity": 0.976890062922434,
+        "similarity_sources": 0.988445031461217,
+        "f1_score": 0.5925925925925927,
+        "rouge_l_score": 0.7999999951125,
+        "bert_score": 0.9082460403442383
+    },
+    {
+        "unique_id": "PAQ_val_1502_0",
+        "question": "why were the elections postponed?",
+        "model_answer": "{\"answer\": \"In Kuwait, the 2013 elections were postponed due to delays in the candidate registration process; the electoral law required registration had to start a month before the election, but the cabinet put process on hold whilst it waited for the Constitutional Court to publish the reasons for ruling that dissolved the previous National Assembly. In Nigeria, the 2015 elections were postponed for six weeks, citing unsafe voting conditions in the northeast.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "Sources say [ 1 They were originally scheduled for 25 July, but were later postponed due to delays in the candidate registration process ] . Other sources say [ 2 On February 7, Nigeria announced that the elections would be postponed for six weeks, citing unsafe voting conditions in the northeast. ]",
+        "answer": "Sources say They were originally scheduled for 25 July, but were later postponed due to delays in the candidate registration process . Other sources say On February 7, Nigeria announced that the elections would be postponed for six weeks, citing unsafe voting conditions in the northeast.",
+        "similarity": 0.7153215745700435,
+        "similarity_sources": 0.8576607872850217,
+        "f1_score": 0.4552845528455284,
+        "rouge_l_score": 0.4042553142055229,
+        "bert_score": 0.8849192261695862
+    },
+    {
+        "unique_id": "PAQ_val_1029_1",
+        "question": "how long did it take to climb pikes peak?",
+        "model_answer": "{\"answer\": \"The ascent to the summit of Pikes Peak took 5 hours and 28 minutes by car, as per the historical record of William Wayne Brown's drive on July 17, 1913. In a different event, the off-road racing driver Chad Hord raced a Nissan Leaf up the course in 14 minutes and 33 seconds during the 2011 Pikes Peak International Hill Climb.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "Some sources state that [ 2 On July 17, 1913 William Wayne Brown drove his car, the \"Bear Cat\", to the summit. The ascent took 5 hours and 28 minutes. ]",
+        "answer": "Some sources state that On July 17, 1913 William Wayne Brown drove his car, the \"Bear Cat\", to the summit. The ascent took 5 hours and 28 minutes.",
+        "similarity": 0.6073970550055844,
+        "similarity_sources": 0.3036985275027922,
+        "f1_score": 0.34782608695652173,
+        "rouge_l_score": 0.27160493360768184,
+        "bert_score": 0.8825547099113464
+    },
+    {
+        "unique_id": "PAQ_val_1631_2",
+        "question": "how long did it take to sail to california?",
+        "model_answer": "{\"answer\": \"It took 120 to over 200 days to sail from Atlantic ports on the east coast, around Cape Horn, to the Pacific ports in the Sandwich Islands and then the mainland west coast.\", \"sources\": [\"Source2\"]}",
+        "sources": [
+            "2"
+        ],
+        "summary": "[ 1 From the East Coast, a sailing voyage around the tip of South America would take five to eight months ] or [ 2 it took 120 to over 200 days to sail from Atlantic ports on the east coast, around Cape Horn ] .",
+        "answer": "From the East Coast, a sailing voyage around the tip of South America would take five to eight months or it took 120 to over 200 days to sail from Atlantic ports on the east coast, around Cape Horn .",
+        "similarity": 0.7762764904011408,
+        "similarity_sources": 0.3881382452005704,
+        "f1_score": 0.5316455696202532,
+        "rouge_l_score": 0.49230768745088765,
+        "bert_score": 0.9032350182533264
+    },
+    {
+        "unique_id": "PAQ_val_1142_2",
+        "question": "the hunchback of notre dame is based on which novel?",
+        "model_answer": "{\"answer\": \"The Hunchback of Notre Dame is based on Victor Hugo's 1831 novel of the same name.\", \"sources\": [\"Source2\"]}",
+        "sources": [
+            "2"
+        ],
+        "summary": "According to sources, [ 2 The Hunchback of Notre Dame is a 1939 American film ] [ 2 based on Victor Hugo's 1831 novel. ]",
+        "answer": "According to sources, The Hunchback of Notre Dame is a 1939 American film based on Victor Hugo's 1831 novel.",
+        "similarity": 0.8375387929060938,
+        "similarity_sources": 0.9187693964530469,
+        "f1_score": 0.5365853658536586,
+        "rouge_l_score": 0.6486486438276114,
+        "bert_score": 0.9064116477966309
+    },
+    {
+        "unique_id": "PAQ_val_1765_0",
+        "question": "what does the acronym ansp stand for?",
+        "model_answer": "{\"answer\": \"ANSP stands for Agency for National Security Planning and Air Navigation Service Providers.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "ANSP can stand for the [ 1 Agency for National Security Planning ] , an [ 1 agency of the ] [ 1 South Korean ] [ 1 National Intelligence Service ] . Other sources state that ANSP stands for [ 2 Air Navigation Service Providers ] .",
+        "answer": "ANSP can stand for the Agency for National Security Planning , an agency of the South Korean National Intelligence Service . Other sources state that ANSP stands for Air Navigation Service Providers .",
+        "similarity": 0.8932973299492263,
+        "similarity_sources": 0.9466486649746131,
+        "f1_score": 0.360655737704918,
+        "rouge_l_score": 0.536585361713266,
+        "bert_score": 0.8615599870681763
+    },
+    {
+        "unique_id": "PAQ_val_1057_0",
+        "question": "why are cells unable to divide?",
+        "model_answer": "{\"answer\": null, \"sources\": []}",
+        "sources": [],
+        "summary": "null",
+        "answer": "null",
+        "similarity": 1.0,
+        "similarity_sources": 1.0,
+        "f1_score": 1.0,
+        "rouge_l_score": 1.0,
+        "bert_score": 1.0
+    },
+    {
+        "unique_id": "PAQ_val_1065_2",
+        "question": "how long is halley's comet in orbit?",
+        "model_answer": "{\"answer\": \"Halley's Comet last passed through the inner solar system in 1986 on its 75- to 76-year orbit.\", \"sources\": [\"Source1\"]}",
+        "sources": [
+            "1"
+        ],
+        "summary": "[ 2 Halley is classified as a \"periodic\" or \"short-period comet\"; one with an orbit lasting 200 years or less. ] Other sources state that [ 1 Halley's Comet ] [ 1 last passed through the inner solar system in 1986 on its 75- to 76-year orbit. ]",
+        "answer": "Halley is classified as a \"periodic\" or \"short-period comet\"; one with an orbit lasting 200 years or less. Other sources state that Halley's Comet last passed through the inner solar system in 1986 on its 75- to 76-year orbit.",
+        "similarity": 0.8200371302045818,
+        "similarity_sources": 0.4100185651022909,
+        "f1_score": 0.5230769230769231,
+        "rouge_l_score": 0.5862068924078478,
+        "bert_score": 0.9034776091575623
+    },
+    {
+        "unique_id": "PAQ_val_1158_2",
+        "question": "thomas piketty is a professor at which school?",
+        "model_answer": "{\"answer\": \"Thomas Piketty is a professor at the School for Advanced Studies in the Social Sciences (EHESS), associate chair at the Paris School of Economics and Centennial professor at the International Inequalities Institute, which is part of the London School of Economics (LSE).\", \"sources\": [\"Source2\"]}",
+        "sources": [
+            "2"
+        ],
+        "summary": "[ 2 Thomas Piketty ] [ 2 is a professor (directeur d'\u00e9tudes) at the School for Advanced Studies in the Social Sciences (EHESS), associate chair at the Paris School of Economics and Centennial professor at the International Inequalities Institute, which is part of the London School of Economics (LSE). ]",
+        "answer": "Thomas Piketty is a professor (directeur d'\u00e9tudes) at the School for Advanced Studies in the Social Sciences (EHESS), associate chair at the Paris School of Economics and Centennial professor at the International Inequalities Institute, which is part of the London School of Economics (LSE).",
+        "similarity": 0.984275980723435,
+        "similarity_sources": 0.9921379903617176,
+        "f1_score": 0.9130434782608696,
+        "rouge_l_score": 0.9206349156664146,
+        "bert_score": 0.9482904076576233
+    },
+    {
+        "unique_id": "PAQ_val_1268_0",
+        "question": "what is the name of the alabama church?",
+        "model_answer": "{\"answer\": \"There are multiple churches in Alabama. Two of them are the Garywood Assembly of God, which is a large church in Hueytown, a western suburb of Birmingham, and the Church of the Highlands, a non-denominational, Christian multi-site megachurch headquartered in Birmingham, which is the largest congregation in Alabama.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "[ 2 Church of the Highlands is a non-denominational, Christian multi-site megachurch headquartered in Birmingham, Alabama ] , [ 2 It is the largest congregation in Alabama ] . Though, [ 1 Garywood Assembly of God is ] another [ 1 large church in Hueytown, Alabama; a western suburb of Birmingham. ]",
+        "answer": "Church of the Highlands is a non-denominational, Christian multi-site megachurch headquartered in Birmingham, Alabama , It is the largest congregation in Alabama . Though, Garywood Assembly of God is another large church in Hueytown, Alabama; a western suburb of Birmingham.",
+        "similarity": 0.8666858596051951,
+        "similarity_sources": 0.9333429298025975,
+        "f1_score": 0.5599999999999999,
+        "rouge_l_score": 0.6363636313682278,
+        "bert_score": 0.9148291945457458
+    },
+    {
+        "unique_id": "PAQ_val_1593_0",
+        "question": "which two supreme court justices did mccain vote for?",
+        "model_answer": "{\"answer\": \"John McCain cast Supreme Court confirmation votes in favor of John Roberts and Samuel Alito. He also voted to confirm David Souter, Clarence Thomas, Ruth Bader Ginsburg, and Stephen Breyer.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "John McCain voted for [ 1 John Roberts and Samuel Alito ] . He also voted for [ 2 Ruth Bader Ginsburg and Stephen Breyer ] .",
+        "answer": "John McCain voted for John Roberts and Samuel Alito . He also voted for Ruth Bader Ginsburg and Stephen Breyer .",
+        "similarity": 0.8717317306822908,
+        "similarity_sources": 0.9358658653411454,
+        "f1_score": 0.456140350877193,
+        "rouge_l_score": 0.5531914845450431,
+        "bert_score": 0.9029573798179626
+    },
+    {
+        "unique_id": "PAQ_val_1157_2",
+        "question": "how long do you have to use a mobile phone?",
+        "model_answer": "{\"answer\": \"The average user replaces their mobile phone every 11 to 18 months.\", \"sources\": [\"Source1\"]}",
+        "sources": [
+            "1"
+        ],
+        "summary": "Some sources state that [ 1 The average user replaces their mobile phone every 11 to 18 months ] .",
+        "answer": "Some sources state that The average user replaces their mobile phone every 11 to 18 months .",
+        "similarity": 0.923929892404135,
+        "similarity_sources": 0.9619649462020675,
+        "f1_score": 0.6874999999999999,
+        "rouge_l_score": 0.7741935436420396,
+        "bert_score": 0.9253400564193726
+    },
+    {
+        "unique_id": "PAQ_val_1141_0",
+        "question": "how long does it take for someone to die from strangulation?",
+        "model_answer": "{\"answer\": \"The time it takes for someone to die from strangulation can vary. In the case of hanging, death typically occurs between ten and twenty minutes. In cases of homicide involving strangulation, unconsciousness typically occurs in 10 to 15 seconds. However, it's important to note that even victims with seemingly minimal injuries and/or symptoms may die hours, days, or weeks later due to progressive, irreversible encephalopathy.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "When hanged, the [ 1 person slowly dies of strangulation, which typically takes between ten and twenty minutes, resulting in a considerably more prolonged and painful death as compared to the standard or long drop hanging. ] If someone is strangled, [ 2 unconsciousness typically ] occurs [ 2 in 10 to 15 seconds. ]",
+        "answer": "When hanged, the person slowly dies of strangulation, which typically takes between ten and twenty minutes, resulting in a considerably more prolonged and painful death as compared to the standard or long drop hanging. If someone is strangled, unconsciousness typically occurs in 10 to 15 seconds.",
+        "similarity": 0.8638023240740864,
+        "similarity_sources": 0.9319011620370432,
+        "f1_score": 0.3833333333333333,
+        "rouge_l_score": 0.35294117153979243,
+        "bert_score": 0.8678017854690552
+    },
+    {
+        "unique_id": "PAQ_val_1849_2",
+        "question": "when did the vikings arrive in paris?",
+        "model_answer": "{\"answer\": \"The Vikings arrived in Paris on 24 or 25 November 885 during the Siege of Paris (885\\u2013886) and on Easter Sunday, 29 March, during the Siege of Paris (845).\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "[ 1 The Vikings arrived in Paris on 24 or 25 November 885, initially asking for tribute from the Franks. ] [ 2 The Vikings arrived in Paris on Easter Sunday, 29 March, entered the city and plundered it. ]",
+        "answer": "The Vikings arrived in Paris on 24 or 25 November 885, initially asking for tribute from the Franks. The Vikings arrived in Paris on Easter Sunday, 29 March, entered the city and plundered it.",
+        "similarity": 0.91123418310463,
+        "similarity_sources": 0.955617091552315,
+        "f1_score": 0.5507246376811594,
+        "rouge_l_score": 0.5660377309932362,
+        "bert_score": 0.9071171283721924
+    },
+    {
+        "unique_id": "PAQ_val_1336_2",
+        "question": "when did between the buried and me tour north america?",
+        "model_answer": "{\"answer\": \"Between the Buried and Me toured North America during April through May 2011 and again during September and October 2013.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "[ 1 Between the Buried and Me toured North America with Job for a Cowboy, The Ocean and Cephalic Carnage during April through May 2011 ] and they did a [ 2 'Future Sequence' tour across North America during September and October 2013, alongside The Faceless and The Contortionist. ]",
+        "answer": "Between the Buried and Me toured North America with Job for a Cowboy, The Ocean and Cephalic Carnage during April through May 2011 and they did a 'Future Sequence' tour across North America during September and October 2013, alongside The Faceless and The Contortionist.",
+        "similarity": 0.7813647419423051,
+        "similarity_sources": 0.8906823709711525,
+        "f1_score": 0.5142857142857143,
+        "rouge_l_score": 0.545454541183471,
+        "bert_score": 0.8809091448783875
+    },
+    {
+        "unique_id": "PAQ_val_1358_1",
+        "question": "When did the last blizzard occur in Chicago?",
+        "model_answer": "{\"answer\": null, \"sources\": []}",
+        "sources": [],
+        "summary": "The [ 1 North American blizzard of 1999 ] which lasted from [ 1 January 4 - January 8 ] , [ 1 was rated by the National Weather Service as the second worst blizzard to hit Chicago in the 20th century, after the Blizzard of 1967. ] And the [ 2 North American blizzard ] of [ 2 2011 ] lasted in Chicago from [ 2 January 31 \u2013 February 2 ] .",
+        "answer": "The North American blizzard of 1999 which lasted from January 4 - January 8 , was rated by the National Weather Service as the second worst blizzard to hit Chicago in the 20th century, after the Blizzard of 1967. And the North American blizzard of 2011 lasted in Chicago from January 31 \u2013 February 2 .",
+        "similarity": 0.07738555808049087,
+        "similarity_sources": 0.038692779040245436,
+        "f1_score": 0.0,
+        "rouge_l_score": 0.0,
+        "bert_score": 0.0
+    },
+    {
+        "unique_id": "PAQ_val_1590_1",
+        "question": "who was the queen's maid of honor?",
+        "model_answer": "{\"answer\": \"In the context of Frederica of Baden, the queen's favorite maid of honor was Anna Charlotta von Friesendorff. In the case of Susanne de Navailles, the maid-of-honour to the queen that king Louis XIV started to court was Anne-Lucie de la Mothe-Houdancourt.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "Some sources state the [ 1 queen's favorite maid of honor ] was [ 1 Anna Charlotta von Friesendorff ] . Other sources mention [ 2 Anne-Lucie de la Mothe-Houdancourt ] as [ 2 a maid-of-honour to the queen ] .",
+        "answer": "Some sources state the queen's favorite maid of honor was Anna Charlotta von Friesendorff . Other sources mention Anne-Lucie de la Mothe-Houdancourt as a maid-of-honour to the queen .",
+        "similarity": 0.7829726244322566,
+        "similarity_sources": 0.8914863122161283,
+        "f1_score": 0.4096385542168674,
+        "rouge_l_score": 0.49999999500555575,
+        "bert_score": 0.8931239247322083
+    },
+    {
+        "unique_id": "PAQ_val_1763_0",
+        "question": "where did daniel chong go to college?",
+        "model_answer": "{\"answer\": \"Daniel Chong was a student at the University of California, San Diego.\", \"sources\": [\"Source2\"]}",
+        "sources": [
+            "2"
+        ],
+        "summary": "There's [ 1 Daniel Chong (animator) : ] [ 1 He is born to Singaporean Chinese immigrants and is a graduate of California Institute of the Arts. ] But also, [ 2 Daniel Chong was a 23-year-old student at the University of California, San Diego, a senior majoring in engineering, who is originally from Cerritos in Los Angeles County. ]",
+        "answer": "There's Daniel Chong (animator) : He is born to Singaporean Chinese immigrants and is a graduate of California Institute of the Arts. But also, Daniel Chong was a 23-year-old student at the University of California, San Diego, a senior majoring in engineering, who is originally from Cerritos in Los Angeles County.",
+        "similarity": 0.6902758471719808,
+        "similarity_sources": 0.3451379235859904,
+        "f1_score": 0.3055555555555556,
+        "rouge_l_score": 0.3859649089566021,
+        "bert_score": 0.8842900991439819
+    },
+    {
+        "unique_id": "PAQ_val_1941_0",
+        "question": "where was the japanese concentration camp located?",
+        "model_answer": "{\"answer\": \"The Japanese concentration camps mentioned in the documents were located in Los Ba\\u00f1os, Laguna and in Basak San Nicolas, Cebu City, both in the Philippines.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "The [ 1 Japanese concentration camp ] was in [ 1 Los Ba\u00f1os, Laguna ] .",
+        "answer": "The Japanese concentration camp was in Los Ba\u00f1os, Laguna .",
+        "similarity": 0.8177227762090423,
+        "similarity_sources": 0.40886138810452116,
+        "f1_score": 0.34146341463414637,
+        "rouge_l_score": 0.4242424196143251,
+        "bert_score": 0.8706405758857727
+    },
+    {
+        "unique_id": "PAQ_val_1905_0",
+        "question": "abfraction is caused by what?",
+        "model_answer": "{\"answer\": \"Abfraction is a pathologic loss of hard tissue tooth substance caused by bio mechanical loading forces. It is purportedly caused by minute flexure of teeth under occlusal loading. It presents as triangular lesions along the cervical margins of the buccal surfaces of the teeth where the enamel is thinner and therefore, in the presence of occluding forces, is prone to fracture.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "Abfraction is [ 1 a \"pathologic loss of hard tissue tooth substance caused by bio mechanical loading forces\". ] Additionally, it is [ 2 purportedly caused by minute flexure of teeth under occlusal loading. ]",
+        "answer": "Abfraction is a \"pathologic loss of hard tissue tooth substance caused by bio mechanical loading forces\". Additionally, it is purportedly caused by minute flexure of teeth under occlusal loading.",
+        "similarity": 0.957302789574724,
+        "similarity_sources": 0.9786513947873621,
+        "f1_score": 0.5416666666666666,
+        "rouge_l_score": 0.5479452007506099,
+        "bert_score": 0.9156068563461304
+    },
+    {
+        "unique_id": "PAQ_val_1973_2",
+        "question": "which countries were part of the mission?",
+        "model_answer": "{\"answer\": \"The countries participating in the Inter-African Mission to Monitor the Implementation of the Bangui Agreements (MISAB) were Burkina Faso, Chad, Gabon, Mali, Senegal and Togo.\", \"sources\": [\"Source2\"]}",
+        "sources": [
+            "2"
+        ],
+        "summary": "According to sources, these countries were apart of the [ 1 EEC mission ] : [ 1 Luxembourg, Italy and the Netherlands ] . Whereas, [ 2 Burkina Faso, Chad, Gabon, Mali, Senegal and Togo ] participated [ 2 in MISAB ] .",
+        "answer": "According to sources, these countries were apart of the EEC mission : Luxembourg, Italy and the Netherlands . Whereas, Burkina Faso, Chad, Gabon, Mali, Senegal and Togo participated in MISAB .",
+        "similarity": 0.7457885053060043,
+        "similarity_sources": 0.37289425265300213,
+        "f1_score": 0.4411764705882353,
+        "rouge_l_score": 0.40740740251714685,
+        "bert_score": 0.867729663848877
+    },
+    {
+        "unique_id": "PAQ_val_1784_2",
+        "question": "what does iapt stand for?",
+        "model_answer": "{\"answer\": \"IAPT stands for Improving Access to Psychological Therapies and International Association for Plant Taxonomy.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "IAPT stands for [ 1 Improving Access to Psychological Therapies ] , [ 1 an initiative ] that deals with trainings [ 1 to provide CBT at government expense ] ; and [ 2 The International Association for Plant Taxonomy ] , which [ 2 promotes an understanding of plant biodiversity, facilitates international communication of research between botanists, and oversees matters of uniformity and stability in plant names. ]",
+        "answer": "IAPT stands for Improving Access to Psychological Therapies , an initiative that deals with trainings to provide CBT at government expense ; and The International Association for Plant Taxonomy , which promotes an understanding of plant biodiversity, facilitates international communication of research between botanists, and oversees matters of uniformity and stability in plant names.",
+        "similarity": 0.9529538754295664,
+        "similarity_sources": 0.9764769377147833,
+        "f1_score": 0.3132530120481928,
+        "rouge_l_score": 0.4193548353954215,
+        "bert_score": 0.8858085870742798
+    },
+    {
+        "unique_id": "PAQ_val_1230_2",
+        "question": "how long did it take to sail from the east coast to the west coast?",
+        "model_answer": "{\"answer\": \"From the East Coast, a sailing voyage around the tip of South America would take five to eight months, or it took 120 to over 200 days to sail from Atlantic ports on the east coast, around Cape Horn, to the Pacific ports.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "According to sources, [ 2 it took 120 to over 200 days to sail from Atlantic ports on the east coast, around Cape Horn, to the Pacific ports in the Sandwich Islands and then the mainland west coast ] .",
+        "answer": "According to sources, it took 120 to over 200 days to sail from Atlantic ports on the east coast, around Cape Horn, to the Pacific ports in the Sandwich Islands and then the mainland west coast .",
+        "similarity": 0.8022827624394822,
+        "similarity_sources": 0.4011413812197411,
+        "f1_score": 0.6024096385542168,
+        "rouge_l_score": 0.5671641741145022,
+        "bert_score": 0.9140443801879883
+    },
+    {
+        "unique_id": "PAQ_val_1420_1",
+        "question": "why did the japanese lose so much?",
+        "model_answer": "{\"answer\": \"The Japanese suffered significant losses in the Pacific War due to a variety of factors. In the Battle of Leyte, despite managing to move more than 34,000 troops and a large amount of materiel, they suffered a decisive defeat. This was due to relentless air interdiction missions by US aircraft. In the campaign to recapture Henderson Field and secure Guadalcanal, the Japanese lost due to failing to commit enough forces in sufficient time, leading to a costly six-month war of attrition. Ultimately, they had to evacuate the island and withdraw.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "Sources state that [ 2 the Allies were much better able to replace ] [ 2 losses ] in the [ 2 Pacific War ] , and that [ 2 In the six-month war of attrition ] over [ 2 Guadalcanal ] , [ 2 the Japanese had lost as a result of failing to commit enough forces in sufficient time. ] Other sources state that [ 1 the Japanese had ] [ 1 heavy losses to reinforcement convoys, including engagements at Ormoc Bay, because of relentless air interdiction missions by US aircraft. ]",
+        "answer": "Sources state that the Allies were much better able to replace losses in the Pacific War , and that In the six-month war of attrition over Guadalcanal , the Japanese had lost as a result of failing to commit enough forces in sufficient time. Other sources state that the Japanese had heavy losses to reinforcement convoys, including engagements at Ormoc Bay, because of relentless air interdiction missions by US aircraft.",
+        "similarity": 0.772717190817887,
+        "similarity_sources": 0.8863585954089435,
+        "f1_score": 0.40217391304347827,
+        "rouge_l_score": 0.409836060585864,
+        "bert_score": 0.8672336935997009
+    },
+    {
+        "unique_id": "PAQ_val_1826_2",
+        "question": "who are the two sisters in women in love?",
+        "model_answer": "{\"answer\": \"The two sisters in 'Women in Love' are Ursula and Gudrun Brangwen.\", \"sources\": [\"Source1\"]}",
+        "sources": [
+            "1"
+        ],
+        "summary": "[ 2 In Ken Russell's 1969 film \"Women in Love\" ] , t [ 1 wo sisters, Ursula and Gudrun Brangwen, ] [ 2 played by Glenda Jackson and Jennie Linden, ] [ 1 discuss marriage on their way to the wedding of Laura Crich, daughter of the town's wealthy mine owner, Thomas Crich, to Tibby Lupton, a naval officer. ]",
+        "answer": "In Ken Russell's 1969 film \"Women in Love\" , t wo sisters, Ursula and Gudrun Brangwen, played by Glenda Jackson and Jennie Linden, discuss marriage on their way to the wedding of Laura Crich, daughter of the town's wealthy mine owner, Thomas Crich, to Tibby Lupton, a naval officer.",
+        "similarity": 0.7262910164229752,
+        "similarity_sources": 0.3631455082114876,
+        "f1_score": 0.1643835616438356,
+        "rouge_l_score": 0.1355932173053721,
+        "bert_score": 0.8738221526145935
+    },
+    {
+        "unique_id": "PAQ_val_1915_0",
+        "question": "the middle east was the birthplace of what religions?",
+        "model_answer": "{\"answer\": \"The Middle East was the birthplace of the Abrahamic, Gnostic, and most Iranian religions. The Abrahamic religions include Islam, Judaism, and Christianity.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "One source states [ 1 The Middle East ] was [ 1 the birthplace of Islam, Judaism, and Christianity ] . Another source states [ 2 The Middle East was the birthplace of the Abrahamic, Gnostic, and most Iranian religions. ]",
+        "answer": "One source states The Middle East was the birthplace of Islam, Judaism, and Christianity . Another source states The Middle East was the birthplace of the Abrahamic, Gnostic, and most Iranian religions.",
+        "similarity": 0.8759278623075982,
+        "similarity_sources": 0.9379639311537991,
+        "f1_score": 0.5714285714285715,
+        "rouge_l_score": 0.7619047570068028,
+        "bert_score": 0.9158093333244324
+    },
+    {
+        "unique_id": "PAQ_val_1204_0",
+        "question": "june 14th is known as what?",
+        "model_answer": "{\"answer\": \"June 14th is known as World Blood Donor Day and National Leather Jacket Day.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "Some sources state that [ 1 World Blood Donor Day is ] [ 1 June ] [ 1 14 ] . Other sources state that [ 2 National Leather Jacket day occurs every June 14th ] .",
+        "answer": "Some sources state that World Blood Donor Day is June 14 . Other sources state that National Leather Jacket day occurs every June 14th .",
+        "similarity": 0.9104023006234213,
+        "similarity_sources": 0.9552011503117106,
+        "f1_score": 0.39215686274509803,
+        "rouge_l_score": 0.38888888427469137,
+        "bert_score": 0.8754314184188843
+    },
+    {
+        "unique_id": "PAQ_val_1037_0",
+        "question": "where do the la rams play their home games?",
+        "model_answer": "{\"answer\": \"The document does not provide current information on where the Los Angeles Rams play their home games.\", \"sources\": []}",
+        "sources": [],
+        "summary": "There was [ 2 their move ] which transferred them [ 2 to the Greater Los Angeles Area ] . Apparently, [ 1 the Rams continued to fill the cavernous Los Angeles Memorial Coliseum on a regular basis. ]",
+        "answer": "There was their move which transferred them to the Greater Los Angeles Area . Apparently, the Rams continued to fill the cavernous Los Angeles Memorial Coliseum on a regular basis.",
+        "similarity": 0.5636278323798801,
+        "similarity_sources": 0.28181391618994006,
+        "f1_score": 0.25,
+        "rouge_l_score": 0.13333332863209893,
+        "bert_score": 0.854321300983429
+    },
+    {
+        "unique_id": "PAQ_val_1979_0",
+        "question": "where did robert weiss go to school?",
+        "model_answer": "{\"answer\": null, \"sources\": []}",
+        "sources": [],
+        "summary": "null",
+        "answer": "null",
+        "similarity": 0.9999992323576925,
+        "similarity_sources": 0.9999996161788463,
+        "f1_score": 1.0,
+        "rouge_l_score": 1.0,
+        "bert_score": 1.0
+    },
+    {
+        "unique_id": "PAQ_val_1023_2",
+        "question": "who wrote the script for charlotte's web?",
+        "model_answer": "{\"answer\": \"The script for the 2006 film adaptation of Charlotte's Web was written by Susannah Grant and Karey Kirkpatrick.\", \"sources\": [\"Source1\"]}",
+        "sources": [
+            "1"
+        ],
+        "summary": "According to sources, the script for the [ 1 2006 film ] was [ 1 written by Susannah Grant and Karey Kirkpatrick ] and the [ 2 \"Charlotte's Web\" ] episode of [ 2 Pretty Little Liars ] [ 2 was written by Jonell Lennon and Lijah J. Barasz ] .",
+        "answer": "According to sources, the script for the 2006 film was written by Susannah Grant and Karey Kirkpatrick and the \"Charlotte's Web\" episode of Pretty Little Liars was written by Jonell Lennon and Lijah J. Barasz .",
+        "similarity": 0.7513071308449326,
+        "similarity_sources": 0.3756535654224663,
+        "f1_score": 0.4057971014492754,
+        "rouge_l_score": 0.519999995392,
+        "bert_score": 0.8771332502365112
+    },
+    {
+        "unique_id": "PAQ_val_1612_0",
+        "question": "what is the title of the song by the arctic monkeys?",
+        "model_answer": "{\"answer\": \"The Arctic Monkeys have multiple songs. Some of them include 'Fake Tales of San Francisco' and 'Four Out of Five'.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "Titles of songs by the Arctic Monkeys include [ 1 Fake Tales of San Francisco ] , [ 1 Leave Before the Lights Come On ] , [ 2 Four Out of Five ] , [ 2 Suck It and See ] , and [ 3 Red Light Indicates Doors Are Secured ] .",
+        "answer": "Titles of songs by the Arctic Monkeys include Fake Tales of San Francisco , Leave Before the Lights Come On , Four Out of Five , Suck It and See , and Red Light Indicates Doors Are Secured .",
+        "similarity": 0.8268421783424502,
+        "similarity_sources": 0.4134210891712251,
+        "f1_score": 0.2972972972972973,
+        "rouge_l_score": 0.2592592548148149,
+        "bert_score": 0.8663877844810486
+    },
+    {
+        "unique_id": "PAQ_val_1608_0",
+        "question": "when did the bronze age collapse take place?",
+        "model_answer": "{\"answer\": \"The Bronze Age collapse took place from 1200 BC to 900 BC.\", \"sources\": [\"Source2\"]}",
+        "sources": [
+            "2"
+        ],
+        "summary": "One source states that the [ 1 the Bronze Age collapse ] took place during the [ 1 13th to 12th centuries BC ] . Other sources state [ 2 The Bronze Age Collapse ] was [ 2 from 1200 BC to 900 BC ] and [ 3 the Bronze Age collapse ] was [ 3 at the end of the 2nd millennium BC ] .",
+        "answer": "One source states that the the Bronze Age collapse took place during the 13th to 12th centuries BC . Other sources state The Bronze Age Collapse was from 1200 BC to 900 BC and the Bronze Age collapse was at the end of the 2nd millennium BC .",
+        "similarity": 0.8326261583453299,
+        "similarity_sources": 0.41631307917266497,
+        "f1_score": 0.28205128205128205,
+        "rouge_l_score": 0.4680851027976461,
+        "bert_score": 0.8738543391227722
+    },
+    {
+        "unique_id": "PAQ_val_1105_2",
+        "question": "when is the rugby world cup going to be held?",
+        "model_answer": "{\"answer\": \"The 2019 Rugby World Cup is to be held in Japan from 20 September to 2 November.\", \"sources\": [\"Source1\"]}",
+        "sources": [
+            "1"
+        ],
+        "summary": "According to sources, the [ 1 2019 Rugby World Cup will be the ninth Rugby World Cup, and is to be held in Japan from 20 September to 2 November. ]",
+        "answer": "According to sources, the 2019 Rugby World Cup will be the ninth Rugby World Cup, and is to be held in Japan from 20 September to 2 November.",
+        "similarity": 0.8902470143434594,
+        "similarity_sources": 0.9451235071717297,
+        "f1_score": 0.7083333333333333,
+        "rouge_l_score": 0.7317073123140988,
+        "bert_score": 0.9367427825927734
+    },
+    {
+        "unique_id": "PAQ_val_1191_0",
+        "question": "why was the book written?",
+        "model_answer": "{\"answer\": \"The documents provided do not specify which book the question is referring to. Therefore, a comprehensive answer cannot be constructed.\", \"sources\": []}",
+        "sources": [],
+        "summary": "Sources say [ 1 Progressive revelation ] [ 1 was written in answer to some questions from the B\u00e1b's uncle. ] Sources also mention [ 2 Xueta : ] [ 2 the book was intended to perpetuate the record and the infamy of the converts, and it contributed notably to provide an ideological basis for the segregation of the Xuetes and to perpetuate it. ] Sources also mention [ 3 History of Alcoholics Anonymous : ] [ 3 One of the main reasons the book was written was to provide an inexpensive way to get the AA program of recovery to suffering alcoholics. ]",
+        "answer": "Sources say Progressive revelation was written in answer to some questions from the B\u00e1b's uncle. Sources also mention Xueta : the book was intended to perpetuate the record and the infamy of the converts, and it contributed notably to provide an ideological basis for the segregation of the Xuetes and to perpetuate it. Sources also mention History of Alcoholics Anonymous : One of the main reasons the book was written was to provide an inexpensive way to get the AA program of recovery to suffering alcoholics.",
+        "similarity": 0.3525411878051221,
+        "similarity_sources": 0.17627059390256106,
+        "f1_score": 0.06451612903225806,
+        "rouge_l_score": 0.10526315401662063,
+        "bert_score": 0.8250031471252441
+    },
+    {
+        "unique_id": "PAQ_val_1167_0",
+        "question": "what is the full form of bpi?",
+        "model_answer": "{\"answer\": \"BPI can stand for Bolshevik Party of India, a communist political party in India; Banco de Oro Unibank, a bank in the Philippines; or Bureau of Plant Industry, an agency of the Philippine government under the Department of Agriculture responsible for serving and supporting the Philippine plant industry sector.\", \"sources\": [\"Source1\", \"Source2\", \"Source3\"]}",
+        "sources": [
+            "2",
+            "1",
+            "3"
+        ],
+        "summary": "One source states that BPI stands for [ 1 The Bolshevik Party of India ] . Other sources state BPI stands for [ 2 Bank of the Philippine Islands ] and [ 3 The Philippines' Bureau of Plant Industry ] .",
+        "answer": "One source states that BPI stands for The Bolshevik Party of India . Other sources state BPI stands for Bank of the Philippine Islands and The Philippines' Bureau of Plant Industry .",
+        "similarity": 0.8736464451815389,
+        "similarity_sources": 0.9368232225907694,
+        "f1_score": 0.37777777777777777,
+        "rouge_l_score": 0.2352941127551904,
+        "bert_score": 0.8380091190338135
+    },
+    {
+        "unique_id": "PAQ_val_1571_2",
+        "question": "which two teams are at the bottom of the table?",
+        "model_answer": "{\"answer\": \"In the 1994\\u201395 season, Ipswich Town and Leicester City were at the bottom of the Premier League table. In the 1999\\u20132000 season, Sheffield Wednesday and Watford were at the bottom of the table.\", \"sources\": [\"Source2\", \"Source3\"]}",
+        "sources": [
+            "2",
+            "3"
+        ],
+        "summary": "Sources say in 1982-83, [ 1 Swansea City and Brighton & Hove Albion have been cut loose at the bottom of the table. ] In 1994-95, the teams at bottom of the table are [ 3 Ipswich Town and Leicester City ] . In 1999-00, [ 2 Sheffield Wednesday and Watford are looking doomed ] at the bottom of the table.",
+        "answer": "Sources say in 1982-83, Swansea City and Brighton & Hove Albion have been cut loose at the bottom of the table. In 1994-95, the teams at bottom of the table are Ipswich Town and Leicester City . In 1999-00, Sheffield Wednesday and Watford are looking doomed at the bottom of the table.",
+        "similarity": 0.8131317306185615,
+        "similarity_sources": 0.40656586530928074,
+        "f1_score": 0.5319148936170214,
+        "rouge_l_score": 0.48275861617122473,
+        "bert_score": 0.9007109999656677
+    },
+    {
+        "unique_id": "PAQ_val_1320_0",
+        "question": "where is the pan american games being held in toronto?",
+        "model_answer": "{\"answer\": \"The 2015 Pan American Games in Toronto were held at various venues. The mountain biking events took place at Hardwood Ski and Bike in Oro-Medonte Township. The Toronto Pan Am Sports Centre hosted diving, fencing, swimming, synchronized swimming and modern pentathlon competitions. The cross-country phase of eventing was held at Will O' Wind Farm in Mono.\", \"sources\": [\"Source1\", \"Source2\", \"Source3\"]}",
+        "sources": [
+            "2",
+            "1",
+            "3"
+        ],
+        "summary": "[ 2 The ] [ 2 Toronto Pan Am Sports Centre ] [ 2 hosted diving, fencing, swimming, synchronized swimming and modern pentathlon competitions ] , while [ 1 Hardwood Ski and Bike was the site of the mountain biking events for the 2015 Pan American Games in Toronto ] . [ 3 the cross-country phase of eventing at the ] [ 3 Games ] [ 3 was ] hosted by [ 3 Will O' Wind Farm ] , [ 3 an equestrian facility in Mono ] .",
+        "answer": "The Toronto Pan Am Sports Centre hosted diving, fencing, swimming, synchronized swimming and modern pentathlon competitions , while Hardwood Ski and Bike was the site of the mountain biking events for the 2015 Pan American Games in Toronto . the cross-country phase of eventing at the Games was hosted by Will O' Wind Farm , an equestrian facility in Mono .",
+        "similarity": 0.9286219663875959,
+        "similarity_sources": 0.9643109831937979,
+        "f1_score": 0.5833333333333334,
+        "rouge_l_score": 0.7083333283528647,
+        "bert_score": 0.8866068720817566
+    },
+    {
+        "unique_id": "PAQ_val_1625_0",
+        "question": "when does the general assembly meet?",
+        "model_answer": "{\"answer\": \"The general assembly of the World Federation of Scientific Workers meets every two to three years. The general assembly of the Christian Church (Disciples of Christ) meets biennially in odd numbered years. The general assembly of the International Publishers Association meets at least once a year, usually at the Frankfurt Book Fair.\", \"sources\": [\"Source1\", \"Source2\", \"Source3\"]}",
+        "sources": [
+            "2",
+            "1",
+            "3"
+        ],
+        "summary": "The [ 1 World Federation of Scientific Workers ] [ 1 general assemble ] [ 1 meets every two to three years. ] The [ 2 Christian Church (Disciples of Christ) ] [ 2 General Assembly ] [ 2 meets biennially in odd numbered years ] . [ 3 The IPA ] [ 3 assembly meets at least once a year ] .",
+        "answer": "The World Federation of Scientific Workers general assemble meets every two to three years. The Christian Church (Disciples of Christ) General Assembly meets biennially in odd numbered years . The IPA assembly meets at least once a year .",
+        "similarity": 0.9152903802645538,
+        "similarity_sources": 0.9576451901322769,
+        "f1_score": 0.5739130434782609,
+        "rouge_l_score": 0.7323943611981749,
+        "bert_score": 0.8860609531402588
+    },
+    {
+        "unique_id": "PAQ_val_1047_0",
+        "question": "how long does it take for a person to die from strangulation?",
+        "model_answer": "{\"answer\": \"When a person is hanged, they slowly die of strangulation, which typically takes between ten and twenty minutes. In cases of ligature strangulation, unconsciousness typically occurs in 10 to 15 seconds.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "In terms of [ 1 Hanging ] , [ 1 The person slowly dies of strangulation, which typically takes between ten and twenty minutes ] . Though, in regards to [ 2 Strangling ] [ 2 in cases of homicide, the victim may struggle for a period of time, with unconsciousness typically occurring in 10 to 15 seconds. ] While in terms of [ 3 Strangulation ] in scenarios of [ 3 domestic violence ] , [ 3 Even victims with seemingly minimal injuries and/or symptoms may die hours, days, or weeks later because of progressive, irreversible encephalopathy. ]",
+        "answer": "In terms of Hanging , The person slowly dies of strangulation, which typically takes between ten and twenty minutes . Though, in regards to Strangling in cases of homicide, the victim may struggle for a period of time, with unconsciousness typically occurring in 10 to 15 seconds. While in terms of Strangulation in scenarios of domestic violence , Even victims with seemingly minimal injuries and/or symptoms may die hours, days, or weeks later because of progressive, irreversible encephalopathy.",
+        "similarity": 0.8459174615047622,
+        "similarity_sources": 0.4229587307523811,
+        "f1_score": 0.35384615384615387,
+        "rouge_l_score": 0.46808510220009053,
+        "bert_score": 0.8852825164794922
+    },
+    {
+        "unique_id": "PAQ_val_1646_0",
+        "question": "which countries were allies of the soviet union during the cold war?",
+        "model_answer": "{\"answer\": \"During the Cold War, Communist governments in Mongolia, Vietnam and later Laos were allies of the Soviet Union. Additionally, Cuba became aligned with the Eastern Bloc after 1959, as did Ethiopia after 1974.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "[ 1 Mongolia, Vietnam and later Laos ] [ 2 Albania, China, and Yugoslavia ] [ 3 Egypt and Saudi Arabia ]",
+        "answer": "Mongolia, Vietnam and later Laos Albania, China, and Yugoslavia Egypt and Saudi Arabia",
+        "similarity": 0.6457046189793618,
+        "similarity_sources": 0.3228523094896809,
+        "f1_score": 0.18181818181818182,
+        "rouge_l_score": 0.21739129981096417,
+        "bert_score": 0.8383679389953613
+    },
+    {
+        "unique_id": "PAQ_val_1512_2",
+        "question": "when did the cincinnati riots take place?",
+        "model_answer": "{\"answer\": \"The Cincinnati riots of 2001 took place from April 9 to 13, 2001. The Cincinnati riots of 1829 broke out in July and August 1829.\", \"sources\": [\"Source1\", \"Source2\", \"Source3\"]}",
+        "sources": [
+            "2",
+            "1",
+            "3"
+        ],
+        "summary": "[ 1 The Cincinnati riots ] include the [ 1 riots of 2001 ] , which [ 1 were a series of civil disorders which took place in and around the Over-the-Rhine neighborhood of downtown Cincinnati, Ohio from April 9 to 13, 2001 ] ; and the [ 3 Riots of 1829 ] , which [ 3 broke out in July and August 1829 as whites attacked blacks in the city. ]",
+        "answer": "The Cincinnati riots include the riots of 2001 , which were a series of civil disorders which took place in and around the Over-the-Rhine neighborhood of downtown Cincinnati, Ohio from April 9 to 13, 2001 ; and the Riots of 1829 , which broke out in July and August 1829 as whites attacked blacks in the city.",
+        "similarity": 0.8962807270282501,
+        "similarity_sources": 0.44814036351412506,
+        "f1_score": 0.45360824742268036,
+        "rouge_l_score": 0.5937499958251954,
+        "bert_score": 0.89682537317276
+    },
+    {
+        "unique_id": "PAQ_val_1298_2",
+        "question": "what does gcaa stand for?",
+        "model_answer": "{\"answer\": \"GCAA can stand for the General Civil Aviation Authority, based in the United Arab Emirates, or the Georgia Collegiate Athletic Association, a Division I member of the National Junior College Athletic Association. It can also refer to the Golf Coaches Association of America.\", \"sources\": [\"Source1\", \"Source2\", \"Source3\"]}",
+        "sources": [
+            "2",
+            "1",
+            "3"
+        ],
+        "summary": "[ 1 GCAA ] can stand for [ 1 General Civil Aviation Authority ] , or [ 2 the Golf Coaches Association of America ] , or [ 3 the Georgia Collegiate Athletic Association ] .",
+        "answer": "GCAA can stand for General Civil Aviation Authority , or the Golf Coaches Association of America , or the Georgia Collegiate Athletic Association .",
+        "similarity": 0.9499262339866323,
+        "similarity_sources": 0.9749631169933162,
+        "f1_score": 0.43037974683544306,
+        "rouge_l_score": 0.5762711816144787,
+        "bert_score": 0.8551057577133179
+    },
+    {
+        "unique_id": "PAQ_val_1526_2",
+        "question": "which is the first private university in himachal pradesh?",
+        "model_answer": "null",
+        "summary": "[ 4 Chitkara University, Himachal Pradesh is a private university located at the HIMUDA Education Hub, near the village Kallujhanda, Solan district, Himachal Pradesh, India. The university was established in 2009 by the Chitkara Educational Trust through the \"Chitkara University (Establishment and Regulation) Act, 2008\". ]",
+        "answer": "Chitkara University, Himachal Pradesh is a private university located at the HIMUDA Education Hub, near the village Kallujhanda, Solan district, Himachal Pradesh, India. The university was established in 2009 by the Chitkara Educational Trust through the \"Chitkara University (Establishment and Regulation) Act, 2008\".",
+        "similarity": 0.08426786609294458,
+        "similarity_sources": 0.08426786609294458,
+        "f1_score": 0.0,
+        "rouge_l_score": 0.0,
+        "bert_score": 0.0
+    },
+    {
+        "unique_id": "PAQ_val_1958_1",
+        "question": "bolivia is a member of which organization?",
+        "model_answer": "{\"answer\": \"Bolivia is a member of the United Nations and the Organization of American States.\", \"sources\": [\"Source1\", \"Source2\", \"Source3\"]}",
+        "sources": [
+            "2",
+            "1",
+            "3"
+        ],
+        "summary": "Some sources state that [ 2 Bolivia ] is a member [ 2 of the Association of Spanish Language Academies ] , [ 3 the United Nations ] , [ 3 the United Nations Security Council, ] and [ 1 the Organization of American States ] .",
+        "answer": "Some sources state that Bolivia is a member of the Association of Spanish Language Academies , the United Nations , the United Nations Security Council, and the Organization of American States .",
+        "similarity": 0.8044361014342128,
+        "similarity_sources": 0.9022180507171065,
+        "f1_score": 0.42622950819672134,
+        "rouge_l_score": 0.5999999958,
+        "bert_score": 0.8598319292068481
+    },
+    {
+        "unique_id": "PAQ_val_1692_0",
+        "question": "which three countries qualified for the 2010 world cup?",
+        "model_answer": "{\"answer\": \"The three countries that qualified for the 2010 FIFA World Cup are New Zealand, United States, and Italy.\", \"sources\": [\"Source1\", \"Source2\", \"Source4\"]}",
+        "sources": [
+            "4",
+            "1",
+            "2"
+        ],
+        "summary": "[ 2 The United States, Mexico and Honduras qualified ] in 2010.",
+        "answer": "The United States, Mexico and Honduras qualified in 2010.",
+        "similarity": 0.6054918522293729,
+        "similarity_sources": 0.3027459261146864,
+        "f1_score": 0.33333333333333337,
+        "rouge_l_score": 0.2666666618666667,
+        "bert_score": 0.8735582828521729
+    },
+    {
+        "unique_id": "PAQ_val_1240_0",
+        "question": "what does mpca stand for?",
+        "model_answer": "{\"answer\": \"MPCA can stand for Madhya Pradesh Cricket Association, Minnesota Pollution Control Agency, Miniature Pinscher Club of America, or Motion Picture Corporation of America.\", \"sources\": [\"Source1\", \"Source2\", \"Source3\", \"Source4\"]}",
+        "sources": [
+            "4",
+            "2",
+            "1",
+            "3"
+        ],
+        "summary": "One source states that MPCA stands for [ 1 Madhya Pradesh Cricket Association ] . Other sources state that it stands for [ 2 Minnesota Pollution Control Agency ] , [ 3 Miniature Pinscher Club of America ] , and [ 4 Motion Picture Corporation of America ] .",
+        "answer": "One source states that MPCA stands for Madhya Pradesh Cricket Association . Other sources state that it stands for Minnesota Pollution Control Agency , Miniature Pinscher Club of America , and Motion Picture Corporation of America .",
+        "similarity": 0.9374336514203644,
+        "similarity_sources": 0.9687168257101821,
+        "f1_score": 0.4444444444444445,
+        "rouge_l_score": 0.5614035040320099,
+        "bert_score": 0.8744297623634338
+    },
+    {
+        "unique_id": "PAQ_val_1746_1",
+        "question": "how do males increase their reproductive success?",
+        "model_answer": "{\"answer\": \"Males can increase their reproductive success in several ways. In some species, males increase their reproductive success by maximally fertilizing each female they mate with. In other species, a male can best increase his reproductive success by finding and fertilizing as many different females as possible. In some cases, males increase reproductive success by migrating to a spawning area.\", \"sources\": [\"Source1\", \"Source2\", \"Source3\"]}",
+        "sources": [
+            "2",
+            "1",
+            "3"
+        ],
+        "summary": "Sources say [ 1 males increase their reproductive success by maximally fertilizing each female they mate with ] . Sources also say [ 2 a male can best increase his reproductive success by finding and fertilizing as many different females as possible. ] Sources also say [ 3 Males increase reproductive success by migrating to a spawning area. ]",
+        "answer": "Sources say males increase their reproductive success by maximally fertilizing each female they mate with . Sources also say a male can best increase his reproductive success by finding and fertilizing as many different females as possible. Sources also say Males increase reproductive success by migrating to a spawning area.",
+        "similarity": 0.925339565573786,
+        "similarity_sources": 0.9626697827868931,
+        "f1_score": 0.6779661016949152,
+        "rouge_l_score": 0.7894736792105265,
+        "bert_score": 0.9282748699188232
+    },
+    {
+        "unique_id": "PAQ_val_1321_1",
+        "question": "when does hypothermia occur?",
+        "model_answer": "{\"answer\": \"Hypothermia, a potentially fatal condition, occurs when the human body's core temperature falls below 35 \\u00b0C. It is a major limitation to swimming or diving in cold water. Body heat is lost much more quickly in water than in air, so water temperatures that would be quite reasonable as outdoor air temperatures can lead to hypothermia in inadequately protected divers.\", \"sources\": [\"Source1\", \"Source3\"]}",
+        "sources": [
+            "1",
+            "3"
+        ],
+        "summary": "[ 1 Hypothermia, a potentially fatal condition, occurs when the human body's core temperature falls below 35 \u00b0C. ] Some sources state [ 2 hypothermia ] [ 2 occurs when the temperature drops below that required to maintain normal metabolism. ] Other sources state [ 3 Hypothermia is reduced body temperature that happens when a body dissipates more heat than it absorbs. ]",
+        "answer": "Hypothermia, a potentially fatal condition, occurs when the human body's core temperature falls below 35 \u00b0C. Some sources state hypothermia occurs when the temperature drops below that required to maintain normal metabolism. Other sources state Hypothermia is reduced body temperature that happens when a body dissipates more heat than it absorbs.",
+        "similarity": 0.8554164408252566,
+        "similarity_sources": 0.4277082204126283,
+        "f1_score": 0.4227642276422764,
+        "rouge_l_score": 0.4421052581850416,
+        "bert_score": 0.8714448809623718
+    },
+    {
+        "unique_id": "PAQ_val_1817_0",
+        "question": "war is characterized by what?",
+        "model_answer": "{\"answer\": \"War is characterized by the use of lethal violence against others\\u2014whether between combatants or upon non-combatants\\u2014to achieve military goals through force. It is a state of organized, armed, and often prolonged conflict carried on between states, nations, or other parties typified by extreme aggression, social disruption, and usually high mortality. War can result in massive civilian or other non-combatant suffering and casualties.\", \"sources\": [\"Source1\", \"Source2\", \"Source3\"]}",
+        "sources": [
+            "2",
+            "1",
+            "3"
+        ],
+        "summary": "Sources state that [ 1 War is a state of organized, armed, and often prolonged conflict carried on between states, nations, or other parties typified by extreme aggression, social disruption, and usually high mortality ] , other sources state that [ 2 War is characterized by the use of lethal violence against others\u2014whether between combatants or upon non-combatants\u2014to achieve military goals through force. ] Other sources state that [ 3 It is generally characterized by extreme violence, aggression, destruction, and mortality, using regular or irregular military forces. ]",
+        "answer": "Sources state that War is a state of organized, armed, and often prolonged conflict carried on between states, nations, or other parties typified by extreme aggression, social disruption, and usually high mortality , other sources state that War is characterized by the use of lethal violence against others\u2014whether between combatants or upon non-combatants\u2014to achieve military goals through force. Other sources state that It is generally characterized by extreme violence, aggression, destruction, and mortality, using regular or irregular military forces.",
+        "similarity": 0.8734620797731542,
+        "similarity_sources": 0.9367310398865771,
+        "f1_score": 0.7066666666666668,
+        "rouge_l_score": 0.7719298195998769,
+        "bert_score": 0.9272271394729614
+    },
+    {
+        "unique_id": "PAQ_val_1064_0",
+        "question": "how are the members of the legislative assembly elected?",
+        "model_answer": "{\"answer\": \"In North Dakota, one-half of the members of the Senate and one-half of the members of the House of Representatives are elected biennially. Originally, all representatives stood for reelection at the same time, but a 1996 amendment changed this to four-year terms with staggered elections. In Delhi, members of the legislative assembly are directly elected from territorial constituencies in the NCT. In Bahrain, 40 members are elected by absolute majority vote in single-member constituencies to serve four-year terms.\", \"sources\": [\"Source1\", \"Source2\", \"Source3\"]}",
+        "sources": [
+            "2",
+            "1",
+            "3"
+        ],
+        "summary": "[ 1 In addition to a four-year term for both houses of the ] [ 1 North Dakota Legislative Assembly ] , [ 1 one-half of the members of the Senate and one-half of the members of the House of Representatives must be elected biennially. ] [ 1 In 1996, ] [ 1 a constitutional amendment ] [ 1 changed the term for representatives to four-years with staggered terms ] . In [ 2 Delhi ] , m [ 2 embers of the legislative assembly are directly elected from territorial constituencies in the NCT. ] In [ 3 Bahrain ] , the [ 3 40 members ] of [ 3 the Council of Representatives ] [ 3 are elected by absolute majority vote in single-member constituencies to serve four-year terms. ]",
+        "answer": "In addition to a four-year term for both houses of the North Dakota Legislative Assembly , one-half of the members of the Senate and one-half of the members of the House of Representatives must be elected biennially. In 1996, a constitutional amendment changed the term for representatives to four-years with staggered terms . In Delhi , m embers of the legislative assembly are directly elected from territorial constituencies in the NCT. In Bahrain , the 40 members of the Council of Representatives are elected by absolute majority vote in single-member constituencies to serve four-year terms.",
+        "similarity": 0.9321419141859428,
+        "similarity_sources": 0.9660709570929714,
+        "f1_score": 0.5933014354066986,
+        "rouge_l_score": 0.6548672516688856,
+        "bert_score": 0.884331464767456
+    },
+    {
+        "unique_id": "PAQ_val_1084_0",
+        "question": "how many casualties did the vietnam war have?",
+        "model_answer": "{\"answer\": \"The documents provide some specific figures but not a total number of casualties for the Vietnam War. In the Vietnamese province of Quang Ngai, civilian casualties were close to 50,000 a year. During the first month of an offensive, 1,100 Americans and other allied troops, 2,100 ARVN, and 14,000 civilians were killed. By the end of the first offensive, nearly 5,000 ARVN and over 4,000 U.S. forces had been killed, with total wounded of 45,820. Some U.S. authors claim the NVA and Viet Cong suffered 17,000 KIA and 32,000 total casualties including wounded.\", \"sources\": [\"Source1\", \"Source3\"]}",
+        "sources": [
+            "1",
+            "3"
+        ],
+        "summary": "Some sources state [ 1 civilian casualties were close to 50,000 a year ] . Other sources state [ 2 U.S. losses were 110 killed and 2 missing and PAVN losses were estimated at 865 ] , and [ 3 1,100 Americans and other allied troops, 2,100 ARVN, and 14,000 civilians were killed. By the end of the first offensive, after two months, nearly 5,000 ARVN and over 4,000 U.S. forces had been killed, with total wounded of 45,820 and an unknown number of PAVN/NLF casualties, with some U.S. authors claiming the NVA and Viet Cong suffered 17,000 KIA and 32,000 total casualties including wounded. ]",
+        "answer": "Some sources state civilian casualties were close to 50,000 a year . Other sources state U.S. losses were 110 killed and 2 missing and PAVN losses were estimated at 865 , and 1,100 Americans and other allied troops, 2,100 ARVN, and 14,000 civilians were killed. By the end of the first offensive, after two months, nearly 5,000 ARVN and over 4,000 U.S. forces had been killed, with total wounded of 45,820 and an unknown number of PAVN/NLF casualties, with some U.S. authors claiming the NVA and Viet Cong suffered 17,000 KIA and 32,000 total casualties including wounded.",
+        "similarity": 0.8408617564829877,
+        "similarity_sources": 0.42043087824149383,
+        "f1_score": 0.6331658291457285,
+        "rouge_l_score": 0.7074829882030637,
+        "bert_score": 0.9373090267181396
+    },
+    {
+        "unique_id": "AMBIG_val_1171_0",
+        "question": "Who wrote the lyrics to in the ghetto?",
+        "model_answer": "{\"answer\": \"The lyrics to 'In the Ghetto' were written by Mac Davis.\", \"sources\": [\"Source1\"]}",
+        "sources": [
+            "1"
+        ],
+        "summary": "[ 1 In the Ghetto\" (originally titled \"The Vicious Circle\") is a 1969 song recorded by Elvis Presley written by Mac Davis. ]",
+        "answer": "In the Ghetto\" (originally titled \"The Vicious Circle\") is a 1969 song recorded by Elvis Presley written by Mac Davis.",
+        "similarity": 0.7153545714349311,
+        "similarity_sources": 0.8576772857174655,
+        "f1_score": 0.29411764705882354,
+        "rouge_l_score": 0.3030302985858586,
+        "bert_score": 0.878922700881958
+    },
+    {
+        "unique_id": "PAQ_val_1639_2",
+        "question": "what is the full form of icpc?",
+        "model_answer": "{\"answer\": \"ICPC can stand for International Cable Protection Committee, International Centre for the Prevention of Crime, Independent Corrupt Practices Commission, or International Classification of Primary Care.\", \"sources\": [\"Source1\", \"Source2\", \"Source3\", \"Source4\"]}",
+        "sources": [
+            "4",
+            "2",
+            "1",
+            "3"
+        ],
+        "summary": "According to sources, the full form of ICPC can be [ 1 the International Cable Protection Committee ] , [ 2 The International Centre for the Prevention of Crime ] , [ 3 The Independent Corrupt Practices Commission ] , and [ 4 the International Classification of Primary Care ] .",
+        "answer": "According to sources, the full form of ICPC can be the International Cable Protection Committee , The International Centre for the Prevention of Crime , The Independent Corrupt Practices Commission , and the International Classification of Primary Care .",
+        "similarity": 0.9348202189953957,
+        "similarity_sources": 0.9674101094976979,
+        "f1_score": 0.4736842105263158,
+        "rouge_l_score": 0.5818181770975206,
+        "bert_score": 0.8725979924201965
+    },
+    {
+        "unique_id": "AMBIG_val_1329_1",
+        "question": "Who did kyle play in little house on the prairie?",
+        "model_answer": "{\"answer\": \"Kyle Richards played the character Alicia Sanderson Edwards in the television series 'Little House on the Prairie'.\", \"sources\": [\"Source1\"]}",
+        "sources": [
+            "1"
+        ],
+        "summary": "[ 1 Kyle Richards ] played [ 1 Alicia Sanderson Edwards ] in [ 1 the television series \"Little House on the Prairie\" ] while [ 2 Kyle Chavarria ] played [ 2 Laura Ingalls ] in its [ 2 2006 ] [ 2 mini-series ] .",
+        "answer": "Kyle Richards played Alicia Sanderson Edwards in the television series \"Little House on the Prairie\" while Kyle Chavarria played Laura Ingalls in its 2006 mini-series .",
+        "similarity": 0.847629108801932,
+        "similarity_sources": 0.423814554400966,
+        "f1_score": 0.40624999999999994,
+        "rouge_l_score": 0.5999999953125,
+        "bert_score": 0.8683295249938965
+    },
+    {
+        "unique_id": "PAQ_val_1274_2",
+        "question": "who is the current provincial minister of balochistan?",
+        "model_answer": "{\"answer\": \"There are multiple Provincial Ministers in Balochistan. Mir Saleem Ahmed Khoso is the current Provincial Minister of the Balochistan for Home and Tribal Affairs, in office since 30 August 2018. Mir Sarfraz Chakar Domki is the current Provincial Minister of Balochistan for Labour and Manpower, in office since 8 September 2018. Sardar Abdul Rehman Khetran is the current Provincial Minister of Balochistan for Science and Information Technology, in office since 9 September 2018.\", \"sources\": [\"Source1\", \"Source2\", \"Source3\"]}",
+        "sources": [
+            "2",
+            "1",
+            "3"
+        ],
+        "summary": "[ 1 Mir Saleem Ahmed Khoso Mir Saleem Ahmed Khoso is a Pakistani politician who is the current Provincial Minister of the Balochistan for Home and Tribal Affairs ] . [ 2 Mir Sarfraz Chakar Domki is a Pakistani politician who is the current Provincial Minister of Balochistan for Labour and Manpower ] . [ 3 Sardar Abdul Rehman Khetran is a Pakistani politician who is the current Provincial Minister of Balochistan for Science and Information Technology ] .",
+        "answer": "Mir Saleem Ahmed Khoso Mir Saleem Ahmed Khoso is a Pakistani politician who is the current Provincial Minister of the Balochistan for Home and Tribal Affairs . Mir Sarfraz Chakar Domki is a Pakistani politician who is the current Provincial Minister of Balochistan for Labour and Manpower . Sardar Abdul Rehman Khetran is a Pakistani politician who is the current Provincial Minister of Balochistan for Science and Information Technology .",
+        "similarity": 0.9038340914151644,
+        "similarity_sources": 0.9519170457075822,
+        "f1_score": 0.5921052631578947,
+        "rouge_l_score": 0.6410256360387904,
+        "bert_score": 0.9172261357307434
+    },
+    {
+        "unique_id": "PAQ_val_1256_1",
+        "question": "where is the women's british open golf tournament played?",
+        "model_answer": "{\"answer\": \"The Women's British Open is played at different locations. For instance, in 2018, it was held at Royal Lytham & St Annes. Royal Birkdale Golf Club is also one of the clubs in the rotation for the Women's British Open and it hosted the tournament for a sixth time in 2014.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "[ 2 Royal Birkdale Golf Club is ] [ 2 one of the clubs in the rotation for both the Open Championship and Women's British Open and has hosted the Open Championship ten times from 1954 through 2017. ] [ 1 Royal Lytham & St Annes ] also hosted [ 1 The Women's British Open ] [ 1 in 2018 ].",
+        "answer": "Royal Birkdale Golf Club is one of the clubs in the rotation for both the Open Championship and Women's British Open and has hosted the Open Championship ten times from 1954 through 2017. Royal Lytham & St Annes also hosted The Women's British Open in 2018.",
+        "similarity": 0.8931449165953187,
+        "similarity_sources": 0.9465724582976593,
+        "f1_score": 0.5357142857142858,
+        "rouge_l_score": 0.6133333283342223,
+        "bert_score": 0.897478461265564
+    },
+    {
+        "unique_id": "AMBIG_val_1191_0",
+        "question": "Who sings the song stuck in the middle with you?",
+        "model_answer": "{\"answer\": \"The song 'Stuck in the Middle with You' was originally performed by Stealers Wheel. It has also been covered by artists like Leif Garrett and Juice Newton.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "[ 1 Stuck in the Middle with You ] is sung by [ 1 Stealers Wheel's ] lead singer. Additionally, [ 2 Leif Garrett released a version of the song on his 1980 album ] . Later, [ 2 Juice Newton recorded a version for her 1985 album ] .",
+        "answer": "Stuck in the Middle with You is sung by Stealers Wheel's lead singer. Additionally, Leif Garrett released a version of the song on his 1980 album . Later, Juice Newton recorded a version for her 1985 album .",
+        "similarity": 0.909012885159705,
+        "similarity_sources": 0.9545064425798525,
+        "f1_score": 0.2857142857142857,
+        "rouge_l_score": 0.35483870480749224,
+        "bert_score": 0.8871397376060486
+    },
+    {
+        "unique_id": "PAQ_val_1002_2",
+        "question": "who wrote the original story of beauty and the beast?",
+        "model_answer": "{\"answer\": \"The original story of 'Beauty and the Beast' was written by Gabrielle-Suzanne Barbot de Villeneuve and was later abridged and published by French author Jeanne Marie Leprince de Beaumont in 1740.\", \"sources\": [\"Source2\"]}",
+        "sources": [
+            "2"
+        ],
+        "summary": "[ 2 \"The Beauty and the Beast\" ] [ 2 was originally written by Gabrielle-Suzanne Barbot de Villeneuve ] .",
+        "answer": "\"The Beauty and the Beast\" was originally written by Gabrielle-Suzanne Barbot de Villeneuve .",
+        "similarity": 0.8355379386789796,
+        "similarity_sources": 0.9177689693394898,
+        "f1_score": 0.3529411764705882,
+        "rouge_l_score": 0.42857142385487534,
+        "bert_score": 0.8880175352096558
+    },
+    {
+        "unique_id": "AMBIG_val_1259_0",
+        "question": "When is the new christopher robin coming out?",
+        "model_answer": "{\"answer\": \"The film 'Christopher Robin' was released on August 3, 2018.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "[ 2 \"Christopher Robin\" premiered in Burbank, California on July 30, 2018, and was released on August 3, 2018 by Walt Disney Studios Motion Pictures. ]",
+        "answer": "\"Christopher Robin\" premiered in Burbank, California on July 30, 2018, and was released on August 3, 2018 by Walt Disney Studios Motion Pictures.",
+        "similarity": 0.8444658775741906,
+        "similarity_sources": 0.4222329387870953,
+        "f1_score": 0.2777777777777778,
+        "rouge_l_score": 0.3428571387755102,
+        "bert_score": 0.9153266549110413
+    },
+    {
+        "unique_id": "PAQ_val_1995_2",
+        "question": "who wrote the song do n 't close your eyes?",
+        "model_answer": "{\"answer\": \"There are multiple songs titled 'Don't Close Your Eyes' written by different authors. The song 'Don't Close Your Eyes (Ashamed)' was written by Dominick Wickliffe, Jonathan Hay, Bob McDill, Joshua Rowe, Morgan McRae and Ajami. The song 'Don't Close Your Eyes' by the American rock band Kix was written by Bob Halligan Jr., John Palumbo, and Donnie Purnell.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "[ 1 Don't Close Your Eyes (Ashamed) is a song written by Dominick Wickliffe, Jonathan Hay, Bob McDill, Joshua Rowe, Morgan McRae and Ajami ] for [ 1 Kxng Crooked fka Crooked I of Slaughterhouse ] , while [ 2 Bob Halligan Jr., John Palumbo, and Donnie Purnell ] wrote [ 2 \"Don't Close Your Eyes\" ] for [ 2 the American rock band Kix ] .",
+        "answer": "Don't Close Your Eyes (Ashamed) is a song written by Dominick Wickliffe, Jonathan Hay, Bob McDill, Joshua Rowe, Morgan McRae and Ajami for Kxng Crooked fka Crooked I of Slaughterhouse , while Bob Halligan Jr., John Palumbo, and Donnie Purnell wrote \"Don't Close Your Eyes\" for the American rock band Kix .",
+        "similarity": 0.866764580691054,
+        "similarity_sources": 0.933382290345527,
+        "f1_score": 0.49599999999999994,
+        "rouge_l_score": 0.6373626323922232,
+        "bert_score": 0.917470395565033
+    },
+    {
+        "unique_id": "AMBIG_val_1313_0",
+        "question": "When does the new season of got air?",
+        "model_answer": "{\"answer\": \"The seventh season of 'Game of Thrones' premiered on July 16, 2017.\", \"sources\": [\"Source1\"]}",
+        "sources": [
+            "1"
+        ],
+        "summary": "[ 2 The sixth season of the fantasy drama television series \"Game of Thrones\" premiered on HBO on April 24, 2016 ] . Additionally, [ 1 On March 9, 2017, HBO hosted a live stream on the \"Game of Thrones\" Facebook page that revealed the premiere date for the seventh season as being July 16, 2017. ]",
+        "answer": "The sixth season of the fantasy drama television series \"Game of Thrones\" premiered on HBO on April 24, 2016 . Additionally, On March 9, 2017, HBO hosted a live stream on the \"Game of Thrones\" Facebook page that revealed the premiere date for the seventh season as being July 16, 2017.",
+        "similarity": 0.8102141996116433,
+        "similarity_sources": 0.40510709980582166,
+        "f1_score": 0.28985507246376807,
+        "rouge_l_score": 0.3333333300891633,
+        "bert_score": 0.9131781458854675
+    },
+    {
+        "unique_id": "AMBIG_val_1369_0",
+        "question": "Who wrote stand up stand up for jesus?",
+        "model_answer": "{\"answer\": \"The hymn 'Stand Up, Stand Up for Jesus' was written by George Duffield Jr.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "[ 1 \"Stand Up, Stand Up for Jesus\" is an American Christian hymn. It was written by George Duffield Jr. ]",
+        "answer": "\"Stand Up, Stand Up for Jesus\" is an American Christian hymn. It was written by George Duffield Jr.",
+        "similarity": 0.9304570396628575,
+        "similarity_sources": 0.46522851983142877,
+        "f1_score": 0.5714285714285714,
+        "rouge_l_score": 0.5714285666285714,
+        "bert_score": 0.9514807462692261
+    },
+    {
+        "unique_id": "AMBIG_val_1103_0",
+        "question": "Who played mary in the passion of christ?",
+        "model_answer": "{\"answer\": \"In the 2004 film 'The Passion of the Christ', Mary was played by Maia Morgenstern. In the TV serial 'The Passion', Mary was played by Penelope Wilton.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "[ 1 The Passion of the Christ (also known simply as The Passion) is a 2004 American biblical drama film ] that saw [ 1 Maia Morgenstern as the Virgin Mary ] . In [ 2 The Passion (TV serial) ] , [ 2 Mary Magdalene ] was [ 2 played by Paloma Baeza ] and another [ 2 Mary ] was played by [ 2 Penelope Wilton ] .",
+        "answer": "The Passion of the Christ (also known simply as The Passion) is a 2004 American biblical drama film that saw Maia Morgenstern as the Virgin Mary . In The Passion (TV serial) , Mary Magdalene was played by Paloma Baeza and another Mary was played by Penelope Wilton .",
+        "similarity": 0.8542817906300106,
+        "similarity_sources": 0.9271408953150053,
+        "f1_score": 0.37113402061855666,
+        "rouge_l_score": 0.3666666623388889,
+        "bert_score": 0.8807506561279297
+    },
+    {
+        "unique_id": "AMBIG_val_1273_2",
+        "question": "When was the bellagio in las vegas built?",
+        "model_answer": "{\"answer\": \"Construction on the Bellagio began in May 1996 and it opened on October 15, 1998.\", \"sources\": [\"Source1\", \"Source2\"]}",
+        "sources": [
+            "1",
+            "2"
+        ],
+        "summary": "[ 2 Construction on the Bellagio began in May 1996. ]",
+        "answer": "Construction on the Bellagio began in May 1996.",
+        "similarity": 0.9050779247749319,
+        "similarity_sources": 0.45253896238746594,
+        "f1_score": 0.5384615384615385,
+        "rouge_l_score": 0.639999995072,
+        "bert_score": 0.9208480715751648
+    },
+    {
+        "unique_id": "PAQ_val_1680_2",
+        "question": "section 1 of the canadian charter of rights and freedoms?",
+        "model_answer": "{\"answer\": \"Section 1 of the Canadian Charter of Rights and Freedoms is intended to be the counter-balance to the court's ability to strike-out law with the Charter. An early version of the section guaranteed rights 'subject only to such reasonable limits as are generally accepted in a free and democratic society with a parliamentary system of government'. However, this wording was changed to focus less on the importance of parliamentary government and more on justifiability. It allows for certain limitations on rights and freedoms in a free and democratic society.\", \"sources\": [\"Source1\"]}",
+        "sources": [
+            "1"
+        ],
+        "summary": "[ 1 In the initial planning stages of the \"Charter\"'s development this section was intended to be the counter-balance to the court's ability to strike-out law with the \"Charter\". An early version of the section guaranteed rights \"subject only to such reasonable limits as are generally accepted in a free and democratic society with a parliamentary system of government\". This wording sparked debate over what government actions could be \"generally accepted\", with civil libertarians arguing that the clause would render \"Charter\" rights impotent. ]",
+        "answer": "In the initial planning stages of the \"Charter\"'s development this section was intended to be the counter-balance to the court's ability to strike-out law with the \"Charter\". An early version of the section guaranteed rights \"subject only to such reasonable limits as are generally accepted in a free and democratic society with a parliamentary system of government\". This wording sparked debate over what government actions could be \"generally accepted\", with civil libertarians arguing that the clause would render \"Charter\" rights impotent.",
+        "similarity": 0.8405072077024581,
+        "similarity_sources": 0.920253603851229,
+        "f1_score": 0.6127167630057804,
+        "rouge_l_score": 0.5873015823129252,
+        "bert_score": 0.9139503240585327
+    },
+    {
+        "unique_id": "AMBIG_val_1069_2",
+        "question": "When was the first apple i phone made?",
+        "model_answer": "{\"answer\": \"The iPhone beta, which may technically be considered the first iPhone, was created in 2004. However, it was never released to the public.\", \"sources\": [\"Source2\"]}",
+        "sources": [
+            "2"
+        ],
+        "summary": "[ 2 The iPhone beta was created in 2004 to test the commands of the Apple team, and while technically may have first iPhone ever created, it was never released to the public, so this beta was not considered the true first iPhone. ]",
+        "answer": "The iPhone beta was created in 2004 to test the commands of the Apple team, and while technically may have first iPhone ever created, it was never released to the public, so this beta was not considered the true first iPhone.",
+        "similarity": 0.9230772528844529,
+        "similarity_sources": 0.9615386264422264,
+        "f1_score": 0.4776119402985074,
+        "rouge_l_score": 0.3999999952793388,
+        "bert_score": 0.9230453968048096
+    },
+    {
+        "unique_id": "PAQ_val_1931_0",
+        "question": "how can energy efficiency be improved?",
+        "model_answer": "{\"answer\": \"Energy efficiency can be improved in several ways. In central heating systems, introducing zoned heating allows a more granular application of heat, similar to non-central heating systems. Zones are controlled by multiple thermostats. In water heating systems the thermostats control zone valves, and in forced air systems they control zone dampers inside the vents which selectively block the flow of air. Insulating a home allows a building to use less heating and cooling energy to achieve and maintain a comfortable temperature. Installing LED lighting, fluorescent lighting, or natural skylight windows reduces the amount of energy required to attain the same level of illumination compared to using traditional incandescent light bulbs. Improvements in energy efficiency are generally achieved by adopting a more efficient technology or production process or by application of commonly accepted methods. Energy efficiency can also be improved by choosing different components or by redesigning the system.\", \"sources\": [\"Source1\", \"Source2\", \"Source3\"]}",
+        "sources": [
+            "2",
+            "1",
+            "3"
+        ],
+        "summary": "[ 1 Energy efficiency can be improved even more in central heating systems by introducing zoned heating. ] Also, [ 2 Efficiency can usually be improved by choosing different components or by redesigning the system. ] [ 3 Improvements in energy efficiency are generally achieved by adopting a more efficient technology or production process or by application of commonly accepted methods ] . Improved [ 4 energy efficiency ] can occur through the [ 4 cogeneration of heat and power. ]",
+        "answer": "Energy efficiency can be improved even more in central heating systems by introducing zoned heating. Also, Efficiency can usually be improved by choosing different components or by redesigning the system. Improvements in energy efficiency are generally achieved by adopting a more efficient technology or production process or by application of commonly accepted methods . Improved energy efficiency can occur through the cogeneration of heat and power.",
+        "similarity": 0.8967070083294474,
+        "similarity_sources": 0.4483535041647237,
+        "f1_score": 0.45414847161572053,
+        "rouge_l_score": 0.4966442907184362,
+        "bert_score": 0.8808866143226624
+    },
+    {
+        "unique_id": "PAQ_val_1491_1",
+        "question": "who are the four members of the gang of four?",
+        "model_answer": "{\"answer\": \"The term 'Gang of Four' refers to different groups in different contexts. In Colorado politics, the 'Gang of Four' refers to Jared Polis, Pat Stryker, Rutt Bridges, and Tim Gill. In Seattle politics, the 'Gang of Four' refers to Bernie Whitebear, Bob Santos, Roberto Maestas, and Larry Gossett. In the field of software development, the 'Gang of Four' refers to Richard Helm, Erich Gamma, Ralph Johnson, John Vlissides, authors of 'Design Patterns: Elements of Reusable Object-Oriented Software'. In music, the 'Gang of Four' band originally consisted of Jon King, Andy Gill, Dave Allen and Hugo Burnham.\", \"sources\": [\"Source1\", \"Source2\", \"Source3\", \"Source4\"]}",
+        "sources": [
+            "4",
+            "2",
+            "1",
+            "3"
+        ],
+        "summary": "[ 1 Jared Polis ] , [ 1 Pat Stryker, Rutt Bridges, and Tim Gill ] are [ 1 four wealthy Coloradans sometimes called the \"Gang of Four\" who donate to liberal causes. ] [ 2 \"Gang of Four\" ] also [ 2 refers to Bernie Whitebear, Bob Santos, Roberto Maestas, and Larry Gossett, who founded Seattle's Minority Executive Directors's Coalition. ] The term is also used for [ 3 Richard Helm, Erich Gamma, Ralph Johnson, John Vlissides \u2013 authors of \"Design Patterns: Elements of Reusable Object-Oriented Software\". ] And the [ 4 Gang of Four (band) ] members are [ 4 Jon King, Andy Gill, Dave Allen and Hugo Burnham ] .",
+        "answer": "Jared Polis , Pat Stryker, Rutt Bridges, and Tim Gill are four wealthy Coloradans sometimes called the \"Gang of Four\" who donate to liberal causes. \"Gang of Four\" also refers to Bernie Whitebear, Bob Santos, Roberto Maestas, and Larry Gossett, who founded Seattle's Minority Executive Directors's Coalition. The term is also used for Richard Helm, Erich Gamma, Ralph Johnson, John Vlissides \u2013 authors of \"Design Patterns: Elements of Reusable Object-Oriented Software\". And the Gang of Four (band) members are Jon King, Andy Gill, Dave Allen and Hugo Burnham .",
+        "similarity": 0.8915528940642208,
+        "similarity_sources": 0.9457764470321104,
+        "f1_score": 0.44976076555023925,
+        "rouge_l_score": 0.5694444395225696,
+        "bert_score": 0.9094730019569397
+    },
+    {
+        "unique_id": "AMBIG_val_1238_1",
+        "question": "When was i'll be home for christmas released?",
+        "model_answer": "{\"answer\": \"The song 'I'll Be Home for Christmas' was originally released by Bing Crosby in 1943. Additionally, there have been other releases associated with the same title. For instance, a Christmas-themed extended play titled 'I'll Be Home for Christmas' was released by Epic Records and Syco Entertainment on November 24, 2014. A film with the same title was released on November 13, 1998. Also, an album titled 'I'll Be Home for Christmas' was released on October 7, 2008.\", \"sources\": [\"Source1\", \"Source2\", \"Source3\", \"Source4\"]}",
+        "sources": [
+            "4",
+            "2",
+            "1",
+            "3"
+        ],
+        "summary": "There are many works entitled [ 1 I'll Be Home for Christmas ] , including a [ 1 song ] released by [ 1 Bing Crosby ] in [ 1 1943 ] , and [ 2 a Christmas-themed extended play released by Epic Records and Syco Entertainment on November 24, 2014. ] It is also the title of an [ 3 American Christmas family comedy film ] released in [ 3 1998 ] , and an [ 4 album ] [ 4 released on October 7, 2008 through Razor & Tie. ]",
+        "answer": "There are many works entitled I'll Be Home for Christmas , including a song released by Bing Crosby in 1943 , and a Christmas-themed extended play released by Epic Records and Syco Entertainment on November 24, 2014. It is also the title of an American Christmas family comedy film released in 1998 , and an album released on October 7, 2008 through Razor & Tie.",
+        "similarity": 0.93498799410743,
+        "similarity_sources": 0.9674939970537151,
+        "f1_score": 0.4260355029585799,
+        "rouge_l_score": 0.5272727222876034,
+        "bert_score": 0.8821760416030884
+    }
+]
